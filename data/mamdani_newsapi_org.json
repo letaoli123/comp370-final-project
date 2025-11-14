@@ -1,0 +1,5 @@
+{
+    "status": "error",
+    "code": "userAgentMissing",
+    "message": "Please set your User-Agent header to identify your application. Anonymous requests are not allowed."
+}
