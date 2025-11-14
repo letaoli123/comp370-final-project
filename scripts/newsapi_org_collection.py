@@ -3,10 +3,11 @@ import json
 import os
 import urllib.parse
 from pathlib import Path
+from dotenv import load_dotenv
 
+# Make sure to run `pip install newsapi-python` 
 from newsapi import NewsApiClient
 
-from dotenv import load_dotenv
 
 load_dotenv()
 NEWS_API_ORG_KEY = os.getenv('NEWSAPI_ORG_KEY')
