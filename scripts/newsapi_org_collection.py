@@ -27,9 +27,6 @@ all_articles = news_api.get_everything(
     page=2
     )
 
-# Decode and parse JSON
 # Dump in JSON file
-with open(collection_filepath, 'a', encoding='utf-8') as f:
+with open(collection_filepath, 'w', encoding='utf-8') as f:
     json.dump(all_articles, f, ensure_ascii=False, indent=4)
-
-# print(f"Saved {len(news_data.ge)}")
