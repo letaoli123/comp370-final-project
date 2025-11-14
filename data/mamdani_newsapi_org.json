@@ -1,5 +1,1306 @@
 {
-    "status": "error",
-    "code": "userAgentMissing",
-    "message": "Please set your User-Agent header to identify your application. Anonymous requests are not allowed."
+    "status": "ok",
+    "totalResults": 7624,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Nikkimccannramirez",
+            "title": "Just When You Thought Andrew Cuomo’s Campaign Couldn’t Get Any Sadder…",
+            "description": "Andrew Cuomo is reportedly hoping Trump can help boost his chances to defeat Zohran Mamdani, while using memes from one of the president's supporters.",
+            "url": "http://www.rollingstone.com/politics/politics-news/andrew-cuomo-campaign-memes-trump-supporter-1235411555/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/cuomo-campaign-new-low.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2025-08-19T21:37:56Z",
+            "content": "The New York City mayoral race is quickly becoming a full-blown social media war between Democratic nominee Zohran Mamdani and former Governor Andrew Cuomo.  \r\nMamdani, a self-described Democratic So… [+3558 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "New York City mayoral race: All you need to know",
+            "description": "Democratic primary pits lawmaker Zohran Mamdani, a democratic socialist, against centrist former Governor Andrew Cuomo.",
+            "url": "https://www.aljazeera.com/news/2025/6/4/new-york-city-mayoral-race-all-you-need-to-know",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/AP507405207543-1749070463.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-06-04T22:16:40Z",
+            "content": "In the New York City mayoral race, a young immigrant who identifies as a democratic socialist is taking on a centrist former governor from a political dynasty.\r\nWith state legislator Zohran Mamdani a… [+6865 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Andrew Perez",
+            "title": "Tax the Rich. They’ll Stay",
+            "description": "Zohran Mamdani wants to make New York more affordable by raising taxes on the city’s millionaires. History shows they won’t leave",
+            "url": "http://www.rollingstone.com/politics/political-commentary/zohran-mamdani-tax-rich-new-york-city-1235414327/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/08/zohran-tax-the-rich-theyll-stay.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2025-08-24T14:00:00Z",
+            "content": "Zohran Mamdani has the penthouse crowd aflutter. The Democratic mayoral nominee’s bold, simple plan to make New York affordable for everyday citizens — freeze the rents, make buses and child care fre… [+5004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jezebel"
+            },
+            "author": "Audra Heinrichs",
+            "title": "Cuomo Whistleblower on Zohran Mamdani's Win: 'We Will Force Change Whether Abusers Like It or Not'",
+            "description": "“As a survivor, and a survivor directly impacted by Cuomo, this started out as one of the darkest periods of my life,\" Lindsey Boyland told Jezebel of Mamdani's incredible upset in Tuesday's NYC mayoral primary.",
+            "url": "https://www.jezebel.com/cuomo-whistleblower-on-zohran-mamdanis-win-we-will-force-change-whether-abusers-like-it-or-not",
+            "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2025/06/Untitled-design-1-2.jpg",
+            "publishedAt": "2025-06-25T12:20:00Z",
+            "content": "It feels wild to write, but…a…good thing…happened. In…American politics??? I know, I know. *looks around suspiciously*\r\nOn Tuesday night, New York’s former governor and accused sex pest, Andrew Cuomo… [+3818 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Lalee Ibssa, Alexandra Hutzler",
+            "title": "Trump suggests taking over New York City and Washington",
+            "description": "President Trump suggested a federal takeover of New York City and Washington, claiming a \"tremendous power at the White House to run places when we have to.\"",
+            "url": "https://abcnews.go.com/Politics/trump-suggests-taking-new-york-city-washington/story?id=123581492",
+            "urlToImage": "https://i.abcnewsfe.com/a/ebe5850a-78b5-4b17-9a6e-73e2e47dab7d/donald-trump-5-gty-gmh-250709_1751990662075_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-07-08T19:41:33Z",
+            "content": "President Donald Trump on Tuesday suggested a federal takeover of New York City and Washington.\r\nThe comments came when Trump, during a meeting of his Cabinet at the White House, was asked about New … [+2206 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Oren Oppenheim, Brittany Shepherd",
+            "title": "Cuomo to stay on New York City mayoral ballot in November: Source",
+            "description": "Former New York Gov. Andrew Cuomo will stay on the New York City mayoral ballot in November on an independent line, a source close to the campaign confirmed.",
+            "url": "https://abcnews.go.com/Politics/cuomo-stay-new-york-city-mayoral-ballot-november/story?id=123258468",
+            "urlToImage": "https://i.abcnewsfe.com/a/3fd10b70-aefa-42b2-abed-6e7e31342280/cuomo_1750822229501_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-06-27T05:01:58Z",
+            "content": "Former New York Gov. Andrew Cuomo will stay on the New York City mayoral ballot in November on the independent ballot line that he qualified for, a source close to the campaign confirmed to ABC News.… [+2353 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "Who is Zohran Mamdani, New York’s likely next mayor?",
+            "description": "Mamdani is on course to win the Democratic primary after Tuesday's election, beating predictions.",
+            "url": "https://www.aljazeera.com/news/2025/6/25/who-is-zohran-mamdani-new-yorks-likely-next-mayor",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-25T050151Z_1268639625_RC2H9FAP92SU_RTRMADP_3_USA-NEW-YORK-MAYOR-ELECTION-1750831365.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-06-25T14:46:35Z",
+            "content": "Zohran Mamdani, a 33-year-old Muslim of South Asian origin, stunned political observers in dealing a crushing defeat to heavyweight former Governor Andrew Cuomo on Tuesday, as he appeared poised to b… [+9939 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Abdallah Fayyad",
+            "title": "The astonishing racism in NYC’s mayoral race",
+            "description": "Throughout Zohran Mamdani’s campaign for New York City mayor, he’s faced a barrage of attacks that have only gotten worse since he handily won the Democratic primary two weeks ago. And this isn’t just happening at the local level; New York City’s mayoral race…",
+            "url": "https://www.vox.com/politics/419040/zohran-mamdani-racism-islamophobia-nyc-mayoral-race",
+            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/gettyimages-2217999205.jpg?quality=90&strip=all&crop=0%2C10.757510848913%2C100%2C78.484978302174&w=1200",
+            "publishedAt": "2025-07-07T19:58:54Z",
+            "content": "As New York City’s mayoral election unfolds, it’s clear that public figures are feeling more and more emboldened to make openly racist statements against candidate Zohran Mamdani. | Yuki Iwamura/Gett… [+7930 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Sarah Shamim",
+            "title": "Can Trump strip Musk and Mamdani of their US citizenship?",
+            "description": "Trump threatened to arrest Zohran Mamdani if the latter did not cooperate with ICE deportation operations in New York.",
+            "url": "https://www.aljazeera.com/news/2025/7/2/can-trump-strip-musk-and-mamdani-of-their-us-citizenship",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/afp_686529d970d2-1751460313.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-07-02T16:08:41Z",
+            "content": "US President Donald Trump and officials from his administration have hinted that they might consider revoking the US citizenship of Zohran Mamdani, New York Citys Democratic mayoral candidate.\r\nSepar… [+11198 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Trump says Cuomo ‘should stay’ in New York City mayor race against Mamdani",
+            "description": "US Republican president slams Zohran Mamdani as a 'communist', says Andrew Cuomo has a 'good shot of winning'.",
+            "url": "https://www.aljazeera.com/news/2025/7/15/trump-says-cuomo-should-stay-in-new-york-city-mayor-race-against-mamdani",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AFP__20250624__63NF262__v2__HighRes__MayoralElection-1752618660.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-07-15T22:57:24Z",
+            "content": "Washington, DC United States President Donald Trump has backed former Governor Andrew Cuomos decision to run as an independent in the New York City mayoral race, renewing his attack against Democrati… [+3259 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Andrew Cuomo says he will still run for NYC mayor after primary defeat",
+            "description": "Cuomo to challenge progressive Zohran Mamdani in general election after being trounced in US city's Democratic primary.",
+            "url": "https://www.aljazeera.com/news/2025/7/14/andrew-cuomo-says-he-will-still-run-for-nyc-mayor-after-primary-defeat",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/01/AP21362821798097.jpg?resize=1200%2C675",
+            "publishedAt": "2025-07-14T20:54:49Z",
+            "content": "Andrew Cuomo has said that he will run as an independent in the race for New York City mayor, following a stinging loss to progressive upstart Zohran Mamdani in the Democratic Party primary last mont… [+3315 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Ali Harb",
+            "title": "Mamdani’s New York victory boosts pro-Palestine politics in US",
+            "description": "Zohran Mamdani won New York's primary race because of his support for Palestine, not in spite of it, progressives say.",
+            "url": "https://www.aljazeera.com/news/2025/6/26/mamdanis-new-york-victory-boosts-pro-palestine-politics-in-us",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-25T050152Z_48159053_RC2H9FAJS5ZA_RTRMADP_3_USA-NEW-YORK-MAYOR-ELECTION-1750891818.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-06-26T00:47:06Z",
+            "content": "Mayoral candidate Zohran Mamdani has bold plans for New York City. He wants to establish city-owned grocery stores, build more homes, make buses free and freeze rents for subsidised tenants.\r\nBut in … [+8561 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Zohran Mamdani claims victory in NYC Democratic mayoral primary",
+            "description": "Video shows Zohran Mamdani declaring victory in New York City’s Democratic mayoral primary after Andrew Cuomo conceded.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2025/6/25/zohran-mamdani-claims-victory-in-nyc-democratic-mayoral-primary",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/image-1750834990.jpg?resize=1920%2C1080&quality=80",
+            "publishedAt": "2025-06-25T07:04:53Z",
+            "content": "NewsFeed\r\nVideo shows Zohran Mamdani declaring victory in New York Citys Democratic mayoral primary after Andrew Cuomo conceded. The 33-year-old democratic socialist would become the citys first Musl… [+39 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Mamdani Ridicules Andrew Cuomo’s New AI-Generated Campaign Ad",
+            "description": "The ad is not getting many views on social media thus far.",
+            "url": "https://gizmodo.com/andrew-cuomo-ai-campaign-ad-zohran-mamdani-2000666355",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/10/andrew-cuomo-ai-1200x675.jpg",
+            "publishedAt": "2025-10-01T20:20:04Z",
+            "content": "Andrew Cuomo, the former New York governor who resigned in disgrace in 2021, launched a new political ad on Wednesday filled with AI-generated depictions of himself doing various jobs.\r\nCuomo is runn… [+4008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Yorker"
+            },
+            "author": "Kelefa Sanneh",
+            "title": "Pan-African Dreams, Post-Colonial Realities",
+            "description": "Kelefa Sanneh reviews “The Second Emancipation: Nkrumah, Pan-Africanism, and Global Blackness at High Tide,” by Howard W. French, and “Slow Poison: Idi Amin, Yoweri Museveni, and the Making of the Ugandan State,” by Mahmood Mamdani.",
+            "url": "https://www.newyorker.com/magazine/2025/10/13/the-second-emancipation-howard-w-french-book-review-slow-poison-mahmood-mamdani",
+            "urlToImage": "https://media.newyorker.com/photos/68dd6fc7c145ecb4d3868c4e/16:9/w_1280,c_limit/r47526.jpg",
+            "publishedAt": "2025-10-06T10:00:00Z",
+            "content": "In June, 1952, Ebony announced that a new era was dawning. Africa is rather quickly awakening from its 1,000-year slumber, the magazine proclaimed, and it named one figure as the personification of t… [+7469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Mychal Denzel Smith",
+            "title": "Zohran Mamdani and the “Black Vote”",
+            "description": "Mamdani struggled against Andrew Cuomo in majority-Black precincts — but his lackluster performance may not tell the whole story.\nThe post Zohran Mamdani and the “Black Vote” appeared first on The Intercept.",
+            "url": "https://theintercept.com/2025/07/18/mamdani-black-vote-cuomo/",
+            "urlToImage": "https://theintercept.com/wp-content/uploads/2025/07/GettyImages-2223808893_3f7495-e1752855113247.jpg?fit=6016%2C3008&w=1200&h=800",
+            "publishedAt": "2025-07-18T18:30:57Z",
+            "content": "Zohran Mamdani participates in an endorsement event in New York City on July 10, 2025.Photo: Kyle Mazza/Anadolu via Getty Images\r\nMychal Denzel Smith is the author of Stakes Is High: Life After the A… [+9019 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Joanna Insco",
+            "title": "How Zohran Mamdani reached a multilingual, multicultural New York online",
+            "description": "Mamdani surged from one percent in polls in February to 56 percent by July, fuelled in no small part by social media.",
+            "url": "https://www.aljazeera.com/economy/2025/7/17/how-zohran-mamdani-reached-a-multilingual-multicultural-new-york",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2-1752732199.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-07-17T17:50:17Z",
+            "content": "New York City, the US: Swinging around a tree mimicking the signature open-arm lean of Bollywood star Shah Rukh Khan, Zohran Mamdani asks, Hey! Have you ever voted before? An enthusiastic group of Hi… [+8251 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Andy Hirschfeld",
+            "title": "Will Zohran Mamdani help or hurt New York’s economy?",
+            "description": "Free buses, rent freezes and city-run grocery stores won over Democratic voters as investor class pushes back.",
+            "url": "https://www.aljazeera.com/economy/2025/7/21/will-zohran-mamdani-help-or-hurt-new-yorks-economy",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25183594986922-1753113209.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-07-21T21:01:05Z",
+            "content": "Zohran Mamdani campaigned for the Democratic nomination for New York mayor on the promise that he would make the largest city in the United States an affordable one.\r\nThe 33-year-old Democratic socia… [+13561 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Somdeep Sen",
+            "title": "Zohran Mamdani’s mayoral bid is bigger than New York",
+            "description": "Amid a global rightward shift, Mamdani’s progressive campaign offers a rare blueprint for the left to win.",
+            "url": "https://www.aljazeera.com/opinions/2025/6/21/zohran-mamdanis-mayoral-bid-is-bigger-than-new-york",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/afp_68567c7b2e4b-1750498427.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-06-21T10:54:14Z",
+            "content": "Sitting in northern Europe, I shouldnt care about the New York mayoral race.\r\nYet, despite all that is happening in the world, the contentious Democratic primary for the 2025 New York City mayoral el… [+6135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Andrew Perez",
+            "title": "Cuomo Concedes to Zohran in New York City Primary: ‘He Deserved It. He Won’",
+            "description": "“Tonight was Assemblyman Mamdani’s night,” said Andrew Cuomo, noting he could still run on an independent line in the general election",
+            "url": "http://www.rollingstone.com/politics/politics-news/zohran-cuomo-concedes-new-york-city-mayor-primary-democrats-1235371489/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/06/zohran-nyc-one.jpg?w=1600&h=900&crop=1",
+            "publishedAt": "2025-06-25T03:32:51Z",
+            "content": "The early results of the Democratic primary are mostly in, and disgraced former Governor Andrew Cuomo is trailing dreamboat Democratic Socialist Zohran Mamdani by seven points. And while it doesn’t l… [+2009 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Yousef Munayyer",
+            "title": "Zohran Mamdani Shows Democrats How Not to Take the Bait",
+            "description": "By refusing to capitulate on \"globalize the intifada,\" Mamdani rejected a long tradition of demonizing Arabic language.\nThe post Zohran Mamdani Shows Democrats How Not to Take the Bait appeared first on The Intercept.",
+            "url": "https://theintercept.com/2025/07/10/mamdani-globalize-intifada-democrats/",
+            "urlToImage": "https://theintercept.com/wp-content/uploads/2025/07/GettyImages-2224278364_26bb6e-e1752085551616.jpg?fit=6000%2C3000&w=1200&h=800",
+            "publishedAt": "2025-07-10T10:30:00Z",
+            "content": "Zohran Mamdani receives the endorsement of the United Federation of Teachers in New York City on July 9, 2025.Photo: Michael M. Santiago/Getty Images\r\nZohran Mamdanis shocking victory in the Democrat… [+12278 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Yashica Dutt",
+            "title": "Did Democrat Zohran Mamdani struggle with Black and working-class voters?",
+            "description": "An analysis suggests the New York City mayoral hopeful trailed among certain demographics. What's behind the numbers?",
+            "url": "https://www.aljazeera.com/news/2025/7/3/did-democrat-zohran-mamdani-struggle-with-black-and-working-class-voters",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/AP25179606614703-1751556544.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-07-03T16:32:28Z",
+            "content": "Early Saturday morning, New York City mayoral candidate Zohran Mamdani stepped on stage in the historically Black neighbourhood of Harlem.\r\nHis message was a familiar one: that he would be the best c… [+9617 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techdirt"
+            },
+            "author": "Mike Masnick",
+            "title": "Why Mamdani’s Refusal To Condemn Speech He Never Made Is Good Free Speech Advocacy",
+            "description": "At a time when politicians on both sides reflexively call for censorship and speech policing, it’s refreshing to see someone actually defend free speech principles—especially when it would be politically easier to cave. That’s exactly what New York City Democ…",
+            "url": "https://www.techdirt.com/2025/07/01/why-mamdanis-refusal-to-condemn-speech-he-never-made-is-good-free-speech-advocacy/",
+            "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+            "publishedAt": "2025-07-01T16:28:52Z",
+            "content": "from the don't-take-the-bait dept\r\nAt a time when politicians on both sides reflexively call for censorship and speech policing, it’s refreshing to see someone actually defend free speech principlese… [+11233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eater"
+            },
+            "author": "Emma Orlow",
+            "title": "This Mayoral Candidate Wants to Roll Back Halal Cart Prices",
+            "description": "Zohran Mamdani says the city is experiencing a “crisis” of “halalflation”",
+            "url": "https://ny.eater.com/2025/1/13/24342837/zohran-mamdani-halal-food-inflation-mayor-candidate",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/4dzSe123lxMKZQWPN3Q5G9sSOAM=/0x482:6718x3999/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25829887/1433174919.jpg",
+            "publishedAt": "2025-01-13T18:24:20Z",
+            "content": "Zohran Mamdani wants to “make halal eight bucks again.” | Michael M. Santiago/Getty Images\r\n\n \n\n Zohran Mamdani says the city is experiencing a “crisis” of “halalflation” The upcoming mayoral race is… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Zohran Mamdani set to become Democratic candidate in New York mayoral race",
+            "description": "Campaigning on cost of living issues, Mamdani beat out ex-governor Andrew Cuomo and his $25m super PAC.",
+            "url": "https://www.aljazeera.com/news/2025/6/25/zohran-mamdani-set-to-become-democratic-candidate-in-new-york-mayoral-race",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/2025-06-25T050151Z_1268639625_RC2H9FAP92SU_RTRMADP_3_USA-NEW-YORK-MAYOR-ELECTION-1750831365.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-06-25T06:57:34Z",
+            "content": "Zohran Mamdani, a 33-year-old state lawmaker, has declared victory in New York Citys Democratic mayoral primary after beating former New York Governor Andrew Cuomo in a landslide win during the first… [+4184 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Mukta Joshi",
+            "title": "Zohran Mamdani’s New York primary win sparks the ire of Modi’s supporters",
+            "description": "Experts say Mamdani, a mayoral candidate, has attracted criticism on the Hindu right for his faith and outspoken views.",
+            "url": "https://www.aljazeera.com/news/2025/7/4/zohran-mamdanis-new-york-primary-win-sparks-the-ire-of-modis-supporters",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-02T161508Z_1142757981_RC2GEFAVSZ2Q_RTRMADP_3_USA-NEWYORK-MAYOR-ELECTION-1751660547.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-07-04T21:58:11Z",
+            "content": "If he wins the general election in November, Zohran Mamdani could become New York Citys first South Asian mayor and the first of Indian origin.\r\nBut the same identity that makes him a trailblazer in … [+9544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Alex Galbraith",
+            "title": "“An interesting situation”: Cuomo considers independent run against Mamdani in NYC mayoral race",
+            "description": "After conceding the Democratic primary to socialist Zohran Mamdani, the former governor is weighing options",
+            "url": "https://www.salon.com/2025/06/25/an-interesting-situation-cuomo-considers-independent-run-against-mamdani-in-nyc-mayoral-race/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/06/andrew-cuomo-2208025368.jpg",
+            "publishedAt": "2025-06-25T23:13:48Z",
+            "content": "In a typical New York City mayoral race, winning the Democratic primary is as good as moving into Gracie Mansion. Zohran Mamdani‘s bid for the mayorship has been anything but typical.\r\nLess than 24 h… [+2282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Andrew O'Hehir",
+            "title": "Zohran and democracy: Three days that shook the world",
+            "description": "Is Zohran Mamdani good for the Democrats? It's the wrong question — he's good for the world",
+            "url": "https://www.salon.com/2025/06/29/zohran-and-democracy-three-days-that-shook-the-world/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/06/GettyImages-2221383782.jpg",
+            "publishedAt": "2025-06-29T17:00:46Z",
+            "content": "No doubt it’s an exaggeration to say that many powerful figures in the Democratic Party are more alarmed by Zohran Mamdani’s surprise victory over Andrew Cuomo in New York Citys mayoral primary than … [+10551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Andrew O'Hehir",
+            "title": "Who’s a true American, and who decides? JD Vance has answers",
+            "description": "JD's 2028 platform, first draft: White supremacists are more American than Zohran Mamdani. Any questions?",
+            "url": "https://www.salon.com/2025/07/13/whos-a-true-american-and-who-decides-jd-vance-has-answers/",
+            "urlToImage": "https://www.salon.com/app/uploads/2024/09/jd_vance_2169743611.jpg",
+            "publishedAt": "2025-07-13T10:45:42Z",
+            "content": "Whether or not he knew it, JD Vance recently waded right into one of the thorniest questions in political philosophy: Who is a citizen and who is not, and who gets to decide?\r\nAbove and beyond that q… [+9636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Russell Payne",
+            "title": "“Vote blue no matter who,” unless it’s Mamdani?",
+            "description": "Some supporters of Zohran Mamdani are wondering whatever happened to rallying behind the Democratic nominee",
+            "url": "https://www.salon.com/2025/08/02/vote-blue-no-matter-who-unless-its-mamdani/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/08/zohran-mamdani-2225237177.jpg",
+            "publishedAt": "2025-08-02T10:45:22Z",
+            "content": "Zohran Mamdani, the Democratic nominee for mayor of New York City, has received an icy reception from both key members of the Democratic Party and its boosters, leading some progressives to wonder wh… [+8343 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Could Zohran Mamdani be NYC’S first Muslim and Indian American mayor?",
+            "description": "Zohran Mamdani’s win in New York City’s Democratic mayoral primary over ex-Gov. Andrew Cuomo has rocked city politics.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2025/6/26/could-zohran-mamdani-be-nycs-first-muslim-and-indian-american-mayor",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/06/image-1750896256.jpg?resize=1620%2C1080&quality=80",
+            "publishedAt": "2025-06-26T00:05:24Z",
+            "content": "NewsFeed\r\nZohran Mamdanis surprising win in New York Citys Democratic mayoral primary over ex-Governor Andrew Cuomo has rocked city politics. But can he turn progressive momentum into victory this No… [+48 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "ANTHONY IZAGUIRRE / AP",
+            "title": "Former Gov. Andrew Cuomo Launches Political Comeback With a Run for New York City Mayor",
+            "description": "In a video announcing his campaign, Cuomo pitched his return as a way to pull the city from social and political crisis.",
+            "url": "https://time.com/7263335/andrew-cuomo-political-comeback-new-york-city-mayor-candidacy/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2025/03/AP25060643719971-1.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2025-03-01T19:16:01Z",
+            "content": "NEW YORK Former New York Gov. Andrew Cuomo announced Saturday that he is running for mayor of New York City, relaunching his political career following a yearslong exile over a barrage of sexual hara… [+6880 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New York Review of Books"
+            },
+            "author": "Max Rivlin-Nadler, Daniel Drake",
+            "title": "The New York World",
+            "description": "The weekend before the thirty-three-year-old socialist Zohran Mamdani stunned Andrew Cuomo and the city of New York by winning a decisive victory in the mayoral primary race, the NYR Online published an assessment by Max Rivlin-Nadler of the powerful coalitio…",
+            "url": "http://www.nybooks.com/online/2025/07/05/new-york-world-max-rivlin-nadler/",
+            "urlToImage": "https://www.nybooks.com/wp-content/uploads/2024/02/NYR-Logo-Social-1600px.png",
+            "publishedAt": "2025-07-05T14:30:00Z",
+            "content": "The weekend before the thirty-three-year-old socialist Zohran Mamdani stunned Andrew Cuomo and the city of New York by winning a decisive victory in the mayoral primary race, the NYR Online published… [+10312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Arash Azizi",
+            "title": "The Real Reason American Socialists Don’t Win",
+            "description": "Only part of the left’s most promising political party even wants to win elections or come to power.",
+            "url": "https://www.theatlantic.com/politics/archive/2025/08/dsa-mamdani-losing-elections/683970/",
+            "urlToImage": "https://cdn.theatlantic.com/thumbor/rQ2tUXOUkkxDah3AFqeeuhVzP8o=/0x43:2000x1085/1200x625/media/img/mt/2025/08/2025_08_21_DSA_mpg_1/original.jpg",
+            "publishedAt": "2025-08-24T11:00:00Z",
+            "content": "If Zohran Mamdani, the Democratic candidate for mayor of New York City, wins this fall’s election, he will occupy the most powerful executive position of any American socialist. At the moment, the cl… [+10469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Robert McCoy",
+            "title": "Trump Tries, Fails to Attack Zohran Mamdani",
+            "description": "Trump has fired off his first two social media posts about Zohran Mamdani, the newly elected Democratic nominee for mayor of New York City. Until Wednesday afternoon, the president had been mum on Mamdani, who won the Democratic primary handily Tuesday evenin…",
+            "url": "https://newrepublic.com/post/197271/trump-tries-fails-attack-zohran-mamdani",
+            "urlToImage": "https://images.newrepublic.com/6837fe470dc6c09ee4314e66565712b7e6b1a801.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-06-25T20:35:59Z",
+            "content": "Fox Newss efforts to make Democratic mayoral candidate Zohran Mamdani seem like a bad influence for New York City are only making him more appealing.\r\nFollowing Mamdanis shock win during Tuesdays pri… [+2157 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techdirt"
+            },
+            "author": "Mike Masnick",
+            "title": "The New York Times Runs Interference For A Racist To Manufacture A Fake Scandal About Zohran Mamdani",
+            "description": "The New York Times has had a rough few decades when it comes to being manipulated by bad actors. But their latest embarrassment—a complete non-story about NYC mayoral candidate Zohran Mamdani’s college application to Columbia University from 2009—represents a…",
+            "url": "https://www.techdirt.com/2025/07/08/the-new-york-times-runs-interference-for-a-racist-to-manufacture-a-fake-scandal-about-zohran-mamdani/",
+            "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+            "publishedAt": "2025-07-08T18:57:00Z",
+            "content": "from the manufactured-outrage-is-still-manufactured dept\r\nThe New York Times has had a rough few decades when it comes to being manipulated by bad actors. But their latest embarrassmenta complete non… [+12623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Eric Levitz",
+            "title": "The real lesson of Zohran Mamdani’s education controversy",
+            "description": "Last week, Zohran Mamdani revealed that, if he wins the mayorship this fall, he will end New York City’s “gifted and talented” program for kindergartners.  This triggered a minor firestorm. Mamdani’s chief mayoral rival, Andrew Cuomo, decried the socialist se…",
+            "url": "https://www.vox.com/politics/464138/zohran-mamdani-gifted-programs-education",
+            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/10/gettyimages-2237755710.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2025-10-09T22:13:07Z",
+            "content": "Zohran Mamdani, New York City mayoral candidate, speaks to members of the media on September 29, 2025, in the Washington Heights neighborhood of New York City. | Victor J. Blue/Bloomberg via Getty Im… [+14700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Mayor Eric Adams Says He's Against Legalizing Prostitution, Cites Faith",
+            "description": "Eric Adams says he can't support legalizing prostitution ... citing his past experience as a police officer and his faith as the main reasons for it. The Mayor of New York City joined us for an interview airing Thursday ... and, he says he's…",
+            "url": "https://www.tmz.com/2025/08/20/mayor-eric-adams-against-legalizing-prostitution/",
+            "urlToImage": "https://imagez.tmz.com/image/6c/16by9/2025/08/19/6ce9f779b1cb4a9d8c2545c6f43cbb23_xl.jpg",
+            "publishedAt": "2025-08-20T09:00:27Z",
+            "content": "Eric Adams says he can't support legalizing prostitution ... citing his past experience as a police officer and his faith as the main reasons for it.\r\nThe Mayor of New York City joined us for an inte… [+1172 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Andy Hirschfeld",
+            "title": "Cuomo wants to be New York City’s next mayor. Will his plans help the city?",
+            "description": "Former New York state governor trails Zohran Mamdani in the polls as he pitches a more centrist economic policy.",
+            "url": "https://www.aljazeera.com/economy/2025/9/26/cuomo-wants-to-be-new-york-citys-next-mayor-will-his-plans-help-the-city",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/AP25254006564807-1758814199.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-09-26T14:20:22Z",
+            "content": "Former New York Governor Andrew Cuomo, who lost the Democratic primary for mayor of New York City to Zohran Mamdani by significant margins and is now contesting as an independent, is second in the ra… [+8546 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "New York City Mayor Eric Adams says he won’t seek re-election",
+            "description": "Adams drops out, leaving the race between Democrat Zohran Mamdani and former New York Governor Andrew Cuomo.",
+            "url": "https://www.aljazeera.com/news/2025/9/28/new-york-city-mayor-eric-adams-says-he-wont-seek-re-election",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/reuters_68baea09-1757080073.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-09-28T17:54:55Z",
+            "content": "New York Mayor Eric Adams has announced that he is dropping his re-election bid, leaving the race likely between Democrat Zohran Mamdani and former New York Governor Andrew Cuomo.\r\nDespite all weve a… [+373 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Russell Payne",
+            "title": "Meet the young Republicans who want to deport Zohran Mamdani",
+            "description": "NYC's Young Republican club cosplays as a deadly political weapon, but may be less ferocious than it appears",
+            "url": "https://www.salon.com/2025/07/21/meet-the-young-republicans-who-want-to-deport-zohran-mamdani/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/07/nyc-young-republicans-gala-maga.jpg",
+            "publishedAt": "2025-07-21T16:15:56Z",
+            "content": "I was about half an hour late for a media workshop on an early July evening hosted by the New York Young Republicans Club on the campus of Lehman College in the Bronx. (The New York subway is not pla… [+13749 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Ali Harb",
+            "title": "Texas man charged over ‘terroristic’ threats against New York’s Mamdani",
+            "description": "Prosecutors say the US suspect, who pleaded not guilty, left many messages threatening Zohran Mamdani and his family.",
+            "url": "https://www.aljazeera.com/news/2025/9/18/texas-man-charged-over-terroristic-threats-against-new-yorks-mamdani",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/2025-09-06T235148Z_624889670_RC2NMGAG6H5Q_RTRMADP_3_USA-ELECTION-NEW-YORK-1758220202.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-09-18T19:11:08Z",
+            "content": "Authorities in New York City have charged a Texas man with making terroristic threats against Zohran Mamdani over a series of menacing voicemail and written messages that the suspect allegedly left f… [+2889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "Brigid Bergin",
+            "title": "NYC mayoral race: Cuomo gets no public campaign funds; Zohran Mamdani takes home $4M",
+            "description": "Mayoral candidate Zohran Mamdani cleaned up on public matching funds.\n \n\nThe Cuomo team blamed a clerical error. [ more › ]",
+            "url": "https://gothamist.com/news/nyc-mayoral-race-cuomo-gets-no-public-campaign-funds-zohran-mamdani-takes-home-4m",
+            "urlToImage": "https://api-prod.gothamist.com/images/350381/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-04-15T19:34:00Z",
+            "content": "New York Citys two leading Democratic mayoral candidates took home very different hauls from the New York City Campaign Finance Board on Tuesday.\r\nAssemblymember Zohran Mamdani of Queens received nea… [+4589 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Nia Prater",
+            "title": "Democratic Socialist Shows Major Fundraising Strength in Mayor’s Race",
+            "description": "Former governor Andrew Cuomo and state legislator Zohran Mamdani reported impressive hauls from the most recent fundraising period.",
+            "url": "http://nymag.com/intelligencer/article/mamdani-cuomo-show-fundraising-strength-in-mayors-race.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/068/055/8fb6fe0f70c09e3ae86ef2bf9f6e606b60-zohran-mayoralpolls.1x.rsocial.w1200.jpg",
+            "publishedAt": "2025-03-17T19:19:41Z",
+            "content": "The field for New York Citys Democratic mayoral primary has grown even wider, adding former governor Andrew Cuomo and City Council Speaker Adrienne Adams to its ranks. But recent fundraising figures … [+3572 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Grace Sandman, Oren Oppenheim",
+            "title": "Key elections approach with Trump approval, congressional maps at stake",
+            "description": "This year’s elections are ramping up as candidates begin to make their final pitch to voters. Here are some key races and what they could portend for the midterms.",
+            "url": "https://abcnews.go.com/Politics/key-2025-elections-approach-trump-approval-congressional-maps/story?id=125183059",
+            "urlToImage": "https://i.abcnewsfe.com/a/35ccf984-e22d-4266-ab1d-eefc10a66b10/adams-mamdani-cuomo-gty-jt-250902_1756829532181_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2025-09-08T09:21:02Z",
+            "content": "With less than two months out to Election Day, this year's elections -- ranging from hot-button mayoral and gubernatorial contests to a vote over new congressional maps -- are set to ramp up as candi… [+4918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ashley Lutz, Fortune Intelligence",
+            "title": "Jamie Dimon breaks with ‘idiots’ in Democratic Party, saying they ‘have big hearts and little brains’",
+            "description": "\"They do not understand how the real world works,\" said the JPMorgan Chase CEO. \"Almost every single policy rolled out failed.\"",
+            "url": "https://finance.yahoo.com/news/jamie-dimon-breaks-idiots-democratic-195147498.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7fl4MpsMGIjO2en.vEhx5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/fortune_175/25bd364dff08260a9a366c13860bba2f",
+            "publishedAt": "2025-07-11T19:51:47Z",
+            "content": "JPMorgan Chase CEO Jamie Dimon made headlines during a high-profile event in Dublin, Ireland, by sharply criticizing the Democratic Party and its approach to diversity, equity, and inclusion (DEI) in… [+6637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Mychal Denzel Smith",
+            "title": "Zohran Mamdani Won’t Defund the Police. The Movement Can Grow With Him Anyway.",
+            "description": "It wouldn’t be savvy politics to push to cut police funding. Adams and Cuomo know that.\nThe post Zohran Mamdani Won’t Defund the Police. The Movement Can Grow With Him Anyway. appeared first on The Intercept.",
+            "url": "https://theintercept.com/2025/09/06/zohran-mamdani-defund-the-police-adams-cuomo/",
+            "urlToImage": "https://theintercept.com/wp-content/uploads/2025/09/GettyImages-2228950358-e1757107708849.jpg?fit=6000%2C3000&w=1200&h=800",
+            "publishedAt": "2025-09-06T10:00:00Z",
+            "content": "Zohran Mamdani arrives outside the Jacob K. Javitz Federal Building in New York City on August 07, 2025. Photo: Michael M. Santiago/Getty Images\r\nMychal Denzel Smith is the author of Stakes Is High: … [+5658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thenation.com"
+            },
+            "author": "Grace Byron",
+            "title": "Can Zohran Mamdani Really Win?",
+            "description": "Grace Byron\n\n\n\nThe socialist New York City mayoral candidate has galvanized support with an energetic, creative campaign. Will it be enough?\r\n\n\r\n\n\nThe post Can Zohran Mamdani Really Win? appeared first on The Nation.",
+            "url": "https://www.thenation.com/article/politics/zohran-mamdani-nyc-mayor/",
+            "urlToImage": "https://www.thenation.com/wp-content/uploads/2025/03/mamdani-getty.jpg",
+            "publishedAt": "2025-03-11T09:00:00Z",
+            "content": "Politics / March 11, 2025\r\nThe socialist New York City mayoral candidate has galvanized support with an energetic, creative campaign. Will it be enough?\r\nAd Policy\r\nNew York Citys next mayor?\r\n(Micha… [+16517 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "MICHAEL R. SISAK",
+            "title": "Federal agents grab and shove journalists outside NYC immigration court, sending one to hospital",
+            "description": "Federal agents grabbed and shoved journalists in a hallway outside a New York City immigration court on Tuesday, sending one to the hospital in the latest...",
+            "url": "https://www.yahoo.com/news/articles/federal-agents-grab-shove-journalists-221755957.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/QiDpyqazuK5EIS0Mx2Wa5w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/7164d0c3812ff71870a4ea75f37f96bd",
+            "publishedAt": "2025-09-30T22:17:55Z",
+            "content": "NEW YORK (AP) Federal agents grabbed and shoved journalists in a hallway outside a New York City immigration court on Tuesday, sending one to the hospital in the latest clash between authorities enfo… [+3490 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": null,
+            "title": "Can Trump strip Musk, Mamdani and others of their US citizenship?",
+            "description": "As US President Donald Trump ramps up efforts to revoke citizenship from some naturalised citizens, who is at risk?",
+            "url": "https://www.aljazeera.com/video/the-take-2/2025/7/11/can-trump-strip-musk-mamdani-and-others-of-their-us-citizenship",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/07/image-1752269062.jpg?resize=1920%2C1080&quality=80",
+            "publishedAt": "2025-07-11T21:25:15Z",
+            "content": "The Take\r\nRead moreUnited States President Donald Trump is threatening to strip away citizenship from some naturalised citizens, including billionaire Elon Musk and New York mayoral candidate Zohran … [+103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Rachel Kahn",
+            "title": "Zohran Mamdani Just Challenged Trump to a Debate",
+            "description": "Democratic New York City mayoral nominee and frontrunner Zohran Mamdani is tired of going back-and-forth with Andrew Cuomo, when he could just debate the man he views as pulling Cuomo’s strings: President Donald Trump.As the New York City mayoral race heats u…",
+            "url": "https://newrepublic.com/post/200054/zohran-mamdani-just-challenged-trump-debate",
+            "urlToImage": "https://images.newrepublic.com/9a48be5df355699f3f7cfdf8276d48f477ddcf5e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-09-05T15:57:43Z",
+            "content": "The confused and badly failing Democrat Party did nothing about Jeffrey Epstein while he was alive except befriend him, socialize with him, travel to his Island, and take his money! They knew everyth… [+2291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "Elizabeth Kim",
+            "title": "Mamdani gets key endorsement for NYC mayor in battle for Asian American votes",
+            "description": "State Sen. John Liu endorsed Zohran Mamdani for mayor outside City Hall.\n \n\nThe first Asian American to hold citywide elected office endorsed Mamdani’s progressive campaign. [ more › ]",
+            "url": "https://gothamist.com/news/mamdani-to-get-key-endorsement-for-nyc-mayor-in-battle-for-asian-american-votes",
+            "urlToImage": "https://api-prod.gothamist.com/images/351603/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-06-02T18:32:00Z",
+            "content": "Zohran Mamdanis mayoral campaign received a key endorsement Monday from state Sen. John Liu, one of New York Citys most prominent Asian American politicians.\r\nPolls show the ranked-choice Democratic … [+4745 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Ted Johnson",
+            "title": "Zohran Mamdani Leads Andrew Cuomo In Democratic Primary Race For New York Mayor",
+            "description": "Assemblyman Zohran Mamdani held a solid lead over former Governor Andrew Cuomo in the Democratic primary race for New York mayor. Mamdani led Cuomo by nearly eight percentage points, with 90% of the vote counted, according to the AP. “Tonight was not our nigh…",
+            "url": "http://deadline.com/2025/06/new-york-mayor-zohran-mamdani-andrew-cuomo-1236441920/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2025/06/GettyImages-2217999205.jpg?w=1024",
+            "publishedAt": "2025-06-25T02:32:15Z",
+            "content": "Assemblyman Zohran Mamdani held a solid lead over former Governor Andrew Cuomo in the Democratic primary race for New York mayor.\r\nMamdani led Cuomo by nearly eight percentage points, with 90% of the… [+1779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Alexandra Bregman, Contributor, \n Alexandra Bregman, Contributor\n https://www.forbes.com/sites/alexandrabregman/",
+            "title": "Does Young Cardamom Help Zohran Mamdani?",
+            "description": "New York Mayoral Candidate Zohran Mamdani began as a musician and rapper. Early creativity paved the foundation for his politics, including allegations of Anti-Semitism.",
+            "url": "https://www.forbes.com/sites/alexandrabregman/2025/07/31/does-young-cardamom-help-zohran-mamdani/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6883b5e6b487ef0c4d3c57a6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-07-31T23:00:00Z",
+            "content": "NEW YORK, NY - MAY 04: New York State assembly member Zorhran Mamdani holds his first rally at a nightclub on May 4, 2025 in the Williamsburg neighborhood in the borough of Brooklyn in New York City.… [+7067 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Karlyn Bowman, Contributor, \n Karlyn Bowman, Contributor\n https://www.forbes.com/sites/bowmanmarsico/",
+            "title": "Surveys On Socialism And Zohran Mamdani",
+            "description": "Surveys illustrate that the majority of Americans are unlikely to be sympathetic to the views of the mayoral candidate's socialist views.",
+            "url": "https://www.forbes.com/sites/bowmanmarsico/2025/07/22/surveys-on-socialism-and-zohran-mamdani/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687fb7c99a2386bbd4255261/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-07-22T16:11:50Z",
+            "content": "In a statement after Zohran Mamdanis victory in the recent NYC Democratic mayoral primary, the Democratic Socialists of America, the nations largest socialist organization, effused, In New York City,… [+4272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NextShark"
+            },
+            "author": "Ryan General",
+            "title": "Two dozen Hmong men in Minnesota face deportation",
+            "description": "Twenty-four Hmong men who settled in Minnesota decades ago are being held in jails across Minnesota and Iowa as they await deportation to Laos, according to ...",
+            "url": "https://nextshark.com/hmong-men-minnesota-face-deportation",
+            "urlToImage": "https://media.zenfs.com/en/nextshark_articles_509/b809082e0ddf347bffabba93b7f639b5",
+            "publishedAt": "2025-07-09T14:22:34Z",
+            "content": "[Source]\r\nTwenty-four Hmong men who settled in Minnesota decades ago are being held in jails across Minnesota and Iowa as they await deportation to Laos, according to the Hmong 18 Council, a local Hm… [+1885 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Juan Williams, opinion contributor",
+            "title": "Opinion - If Trump and the GOP keep this up, AOC is going to be president",
+            "description": "Have congressional Republicans forgotten the political pain they suffered when President George W. Bush tried to privatize Social Security in 2005?",
+            "url": "https://thehill.com/opinion/columnists/juan-williams/5433297-if-trump-and-the-gop-keep-this-up-aoc-is-going-to-be-president/",
+            "urlToImage": "https://media.zenfs.com/en/the_hill_articles_341/b32d47ba3f351d96c41daa4b68235c48",
+            "publishedAt": "2025-08-04T13:30:00Z",
+            "content": "Say hello to New York City Mayor Zohran Mamdani. Say hello to a blue wave in the 2026 midterms. Say hello in 2028 to President Alexandria Ocasio-Cortez.\r\nIf President Trump and congressional Republic… [+5889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Akela Lacy",
+            "title": "How Andrew Cuomo Could Become NYC Mayor — Even if Zohran Mamdani Wins",
+            "description": "The democratic socialist closed in on the former governor ahead of Tuesday’s primary. Cuomo is running in the general election either way.\nThe post How Andrew Cuomo Could Become NYC Mayor — Even if Zohran Mamdani Wins appeared first on The Intercept.",
+            "url": "https://theintercept.com/2025/06/24/zohran-mamdani-andrew-cuomo-nyc-mayor/",
+            "urlToImage": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2221383746-e1750719534158.jpg?fit=8192%2C4096&w=1200&h=800",
+            "publishedAt": "2025-06-24T10:00:00Z",
+            "content": "New York Is Not a democracy, read a headline from The Atlantic earlier this month lamenting the citys ranked-choice voting system ahead of the upcoming mayoral primary election. The statement rankled… [+7427 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Ellie Quinlan Houghtaling",
+            "title": "Zohran Mamdani Wins NYC Democratic Mayoral Primary in Massive Upset",
+            "description": "Money can’t buy everything: New York City Democrats elected Zohran Mamdani in the citywide primaries.\r\nMamdani was ranked first Tuesday in the Democratic mayoral primary by 43.5 percent of the city’s eligible voters, with 90 percent of the votes counted, beat…",
+            "url": "https://newrepublic.com/post/197182/new-york-city-mayor-primary-zohran-mamdani",
+            "urlToImage": "https://images.newrepublic.com/770e0d453219b7fa61ef6879f6f21756b4a9c0dc.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-06-25T02:37:42Z",
+            "content": "Despite issuing guidance that measles can be treated with simple vitamins, Health Secretary Robert F. Kennedy Jr. admitted Tuesday that hes never actually had to help someone recover from the disease… [+2254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jewishinsider.com"
+            },
+            "author": "Jake Schlanger",
+            "title": "Obama official: Dem party 'becoming increasingly antisemitic'...",
+            "description": "Obama official: Dem party 'becoming increasingly antisemitic'...\r\n\n \n \n \n (First column, 11th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:UPDATE: Speculation swirls about AOC presidential run...\r\nJEWISH CONGRESSMEN ENDORSE ZOHRAN FOR MAYOR...",
+            "url": "https://jewishinsider.com/2025/06/obama-omb-director-says-democratic-party-is-becoming-increasingly-antisemitic/",
+            "urlToImage": "https://image.jewishinsider.com/wp-content/uploads/2025/06/26175452/GettyImages-102517607-scaled.jpg",
+            "publishedAt": "2025-06-26T22:22:39Z",
+            "content": "Former Obama administration OMB Director Peter Orszag, the CEO of Lazard, sounded an alarm Thursday morning over the leftward direction of the Democratic Party, especially when it comes to its handli… [+1601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Ellie Quinlan Houghtaling",
+            "title": "New York Republicans Unveil Bonkers New Anti-Zohran Mamdani Merch",
+            "description": "For the low price of $45, New Yorkers can proudly display their racist attitudes against New York City Democratic mayoral candidate Zohran Mamdani.Despite establishment opposition, Mamdani clinched the city’s primary in June with 56 percent of the vote. The U…",
+            "url": "https://newrepublic.com/post/197866/new-york-republicans-zohran-mamdani-merch",
+            "urlToImage": "https://images.newrepublic.com/be5a6ac3749f7981e6722fd1695685ccc12bb73e.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-07-11T15:31:29Z",
+            "content": "Joe Rogan, podcaster and prominent supporter of Donald Trumps presidential bid, is souring on the administrations immigration agenda.\r\nThe Washington Postreported Wednesday that Rogan, who dined with… [+1923 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Maia Hibbett",
+            "title": "Will NY Dems Choose Disgraced Figures of the Past or a Zohran Mamdani Future?",
+            "description": "The party has a choice between boosting a candidate who vows to freeze the rent and resurrecting the careers of Eric Adams or Andrew Cuomo.\nThe post Will NY Dems Choose Disgraced Figures of the Past or a Zohran Mamdani Future? appeared first on The Intercept.",
+            "url": "https://theintercept.com/2025/06/25/zohran-mamdani-andrew-cuomo-eric-adams-nyc-mayor/",
+            "urlToImage": "https://theintercept.com/wp-content/uploads/2025/06/GettyImages-2221991646-e1750864773845.jpg?fit=5806%2C2903&w=1200&h=800",
+            "publishedAt": "2025-06-25T16:58:11Z",
+            "content": "New Yorks Democratic Party establishment now has a choice: rally behind a rising political star being hailed as a once-in-a-generation talent who can expand the partys voter base or attempt to resurr… [+7614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Lincoln Mitchell",
+            "title": "How Zohran Mamdani’s win in the New York City mayoral primary could ripple across the country",
+            "description": "\"Mamdani’s win is clearly a rebuke of the more corporate wing of the Democratic Party.\"",
+            "url": "https://www.salon.com/2025/06/28/how-zohran-mamdanis-win-in-the-new-york-city-mayoral-primary-could-ripple-across-the-country/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/06/zohran-mamdani-2213432355.jpg",
+            "publishedAt": "2025-06-28T10:00:16Z",
+            "content": "Top Republicans and Democrats alike are talking about the sudden rise of 33-year-old Zohran Mamdani, a state representative who won the Democratic mayoral primary in New York on June 24, 2025, in a s… [+6584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Michael Tedder",
+            "title": "The Political Youth Movement That Propelled Zohran Mamdani to Victory",
+            "description": "Donald Trump has, somehow, only been president for six months, but he’s already done deep, unimaginable damage to America’s institutions, laws, and norms, leaving chaos and wreckage that will take years of hard work to repair. But there are some things in thi…",
+            "url": "https://newrepublic.com/article/197258/political-youth-movement-propelled-zohran-mamdani-victory",
+            "urlToImage": "https://images.newrepublic.com/1406d5fc9e49c97353ecbd06a90dc48387fdd0b7.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-06-25T20:10:51Z",
+            "content": "Im feeling really good about a project that I started working on, one way or another, in 2019, Andy Simpson, a DSA spokesperson said. The work that has come before builds something like this now. We … [+2597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Cheyenne McNeill",
+            "title": "“NYC is counting on you”: Republicans ask Trump to deport Mamdani under Cold War-era law",
+            "description": "If elected in November, the 33-year-old democratic socialist would be New York City’s first Muslim and Indian-American mayor",
+            "url": "https://www.salon.com/2025/06/26/nyc-is-counting-on-you-republicans-ask-trump-to-deport-mamdani-under-cold-war-era-law/",
+            "urlToImage": "https://www.salon.com/app/uploads/2024/12/zohran_mamdani_2185605694.jpg",
+            "publishedAt": "2025-06-26T22:33:50Z",
+            "content": "Republicans are calling on President Donald Trump to strip a New York City mayoral candidate of his citizenship and have him deported.\r\nZohran Mamdani, born in Uganda and naturalized as a U.S. citize… [+2634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Michael Tomasky",
+            "title": "What Centrist Democrats Need to Learn from Zohran Mamdani",
+            "description": "I covered New York City politics for quite a few years in my younger days, but instead of instilling in me a continuing passion about the city, it generally left me feeling as if I’d paid that check, as it were. New York politics hasn’t interested me deeply f…",
+            "url": "https://newrepublic.com/article/197397/centrist-democrats-learn-zohran-mamdani",
+            "urlToImage": "https://images.newrepublic.com/ef5023f4b7204c56c3f4d6688db4ee6ffc64da3d.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-06-30T10:00:00Z",
+            "content": "I covered New York City politics for quite a few years in my younger days, but instead of instilling in me a continuing passion about the city, it generally left me feeling as if Id paid that check, … [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Melia Russell",
+            "title": "Today's VCs have become extremely polarizing. It's good for business.",
+            "description": "It's not just Shaun Maguire. Venture capital has entered a new extreme of the 'fame game'",
+            "url": "https://www.businessinsider.com/shaun-maguire-zohran-mamdani-venture-capital-extreme-new-fame-game-2025-7",
+            "urlToImage": "https://i.insider.com/686eda7ef748d8c055f54e50?width=1200&format=jpeg",
+            "publishedAt": "2025-07-10T08:13:01Z",
+            "content": "When Sequoia Capital partner Shaun Maguire went scorched-earth on New York City mayoral hopeful Zohran Mamdani, it marked a new, if familiar, act in tech Twitter theater: a billionaire-adjacent ventu… [+6726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Cheyenne McNeill",
+            "title": "“We’re going to look at everything”: Trump threatens to arrest Mamdani if he becomes NYC mayor",
+            "description": "Trump escalated his threats against Mamdani when asked about the mayoral candidate's stance on cooperating with ICE",
+            "url": "https://www.salon.com/2025/07/01/were-going-to-look-at-everything-trump-threatens-to-arrest-mamdani-if-he-becomes-nyc-mayor/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/04/zohran-mamdani-2207532272.jpg",
+            "publishedAt": "2025-07-01T21:00:02Z",
+            "content": "President Donald Trump escalated his attacks on Zohran Mamdani on Tuesday, floating a hypothetical situation where his administration would arrest the New York City mayoral candidate.\r\nIn a press bri… [+1813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Sophia Tesfaye",
+            "title": "Zohran Mamdani’s win was a surprise. The attacks that have followed are not",
+            "description": "A stunning victory in New York City — and a torrent of anti-immigrant backlash",
+            "url": "https://www.salon.com/2025/06/26/zohran-mamdanis-win-was-a-surprise/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/06/Zohran-Mamdani-2221994109-1.jpeg",
+            "publishedAt": "2025-06-26T10:45:03Z",
+            "content": "As his elder brother was preparing to concede a stunning election loss Tuesday night in the Democratic primary for New York City mayor, Chris Cuomo claimed that extremism has taken root among our own… [+7128 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Intercept"
+            },
+            "author": "Akela Lacy",
+            "title": "Kathy Hochul Endorsed Zohran Mamdani. Will Top Democrats Join Her?",
+            "description": "The New York governor’s support for Mamdani marked a shift in the NYC mayoral race — but top Democrats like Chuck Schumer and Hakeem Jeffries still haven’t weighed in.\nThe post Kathy Hochul Endorsed Zohran Mamdani. Will Top Democrats Join Her? appeared first …",
+            "url": "https://theintercept.com/2025/09/15/zohran-mamdani-kathy-hochul-endorsement-nyc-mayor/",
+            "urlToImage": "https://theintercept.com/wp-content/uploads/2025/09/GettyImages-2228210410-e1757103936247.jpg?fit=4000%2C2000&w=1200&h=800",
+            "publishedAt": "2025-09-15T17:01:30Z",
+            "content": "New York Gov. Kathy Hochul became the top official in the state to endorse Assembly Member Zohran Mamdani for New York City for mayor on Sunday, marking a shift for a strident defender of Israel as m… [+6135 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Annia Ciezadlo",
+            "title": "The Secret Ingredient to Zohran Mamdani’s Success",
+            "description": "Zak Khan wasn’t always the Gyro King of Brooklyn. He started out with a little halal cart down on Wall Street, in the Financial District, just after the September 11 attacks. But running a halal cart is a rough business: Permits cost an arm and a leg, the cit…",
+            "url": "https://newrepublic.com/article/197359/zohran-mamdani-food-campaign-success",
+            "urlToImage": "https://images.newrepublic.com/189741f161fc99555bf81fa4d003a8ee6ee5440c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-07-08T10:00:00Z",
+            "content": "You cant sell cereal to Whole Foods at a cheaper price than to an independent grocer, unless theres a real cost reason, she said, pointing to a box of Cheerios: $7.19 for a family size. But what happ… [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Lyndal Rowlands",
+            "title": "New York Governor Hochul endorses Zohran Mamdani for mayor amid poll surge",
+            "description": "Kathy Hochul's nod comes after Trump described Mamdani's 22-point lead in polls as a 'rebellion against bad candidates'.",
+            "url": "https://www.aljazeera.com/news/2025/9/15/new-york-governor-hochul-endorses-zohran-mamdani-for-mayor-amid-poll-surge",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/afp_68c7795d3de6-1757903197.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-09-15T06:12:19Z",
+            "content": "The governor of New York state, Kathy Hochul, has endorsed Democratic nominee Zohran Mamdani, a staunch pro-Palestinian advocate who has campaigned for a more equitable allocation of the citys resour… [+3839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Alexandra Bregman, Contributor, \n Alexandra Bregman, Contributor\n https://www.forbes.com/sites/alexandrabregman/",
+            "title": "Who Is Zohran Mamdani’s Mother, Mira Nair?",
+            "description": "The mayoral candidate in New York City, Zohran Mamdani, often talks about Muslim identity. But he has a famous Hindu-born mother, filmmaker Mira Nair.",
+            "url": "https://www.forbes.com/sites/alexandrabregman/2025/07/01/who-is-zohran-mamdanis-mother-mira-nair/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/686092fc0367ba39bcf61e53/0x0.jpg?format=jpg&crop=2226,1253,x0,y163,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-07-01T08:45:00Z",
+            "content": "LONDON, ENGLAND - OCTOBER 09: Director Mira Nair and Music Supervisor Zohran Mamdani attend the ... More Gala Screening of 'Queen Of Katwe' during the 60th BFI London Film Festival at Odeon Leicester… [+4347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "Stephen Rex Brown, Elizabeth Kim",
+            "title": "Mamdani and Lander endorse each other in NYC mayor’s race",
+            "description": "Brad Lander and Zohran Mamdani are cross-endorsing each other in the ranked-choice primary for mayor.\n \n\nThe move comes a day after the assemblymember and comptroller hammered Andrew Cuomo on the debate stage. [ more › ]",
+            "url": "https://gothamist.com/news/mamdani-and-lander-endorse-each-other-in-nyc-mayors-race",
+            "urlToImage": "https://api-prod.gothamist.com/images/351821/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-06-13T20:20:00Z",
+            "content": "One day after Brad Lander and Zohran Mamdani ganged up on Andrew Cuomo in the final debate of the Democratic mayoral primary, the city comptroller and assemblymember from Queens announced they will c… [+2685 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techdirt"
+            },
+            "author": "Mike Masnick",
+            "title": "Mamdani Shows How To Frontrun, Defuse, And Reframe Right-Wing Outrage",
+            "description": "Democratic politicians have a chronic problem: they keep accepting Republican framing instead of creating their own. They run scared of Fox News, moderate their positions to appease the unappeasable, and let political consultants convince them that authentici…",
+            "url": "https://www.techdirt.com/2025/07/22/mamdani-shows-how-to-frontrun-defuse-and-reframe-right-wing-outrage/",
+            "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+            "publishedAt": "2025-07-22T16:36:00Z",
+            "content": "Democratic politicians have a chronic problem: they keep accepting Republican framing instead of creating their own. They run scared of Fox News, moderate their positions to appease the unappeasable,… [+5362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Cameron Adams",
+            "title": "Chris Cuomo Gives AOC Bizarre Non-Apology After Falling for Sydney Sweeney Deepfake",
+            "description": "NewsNation host Chris Cuomo made a grudging on-air apology to Alexandria Ocasio-Cortez after the pair were involved in an online spat over a deepfake video. ...",
+            "url": "https://www.thedailybeast.com/cuomos-bizarre-apology-to-aoc-after-sydney-sweeney-ai-drama/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/sORNP.U0.VEnJAIpqqxmow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/thedailybeast.com/7214dba9cff6b2bce58ada91bed53a25",
+            "publishedAt": "2025-08-07T08:38:16Z",
+            "content": "NewsNation host Chris Cuomo made a grudging on-air apology to Alexandria Ocasio-Cortez after the pair were involved in an online spat over a deepfake video.\r\nOn Wednesday, Cuomo was duped by a fake v… [+3757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "AMELIA THOMSON-DEVEAUX",
+            "title": "What Americans think about socialism and capitalism, according to a new Gallup poll",
+            "description": "For years, Republicans have disparaged their political rivals by describing them as socialists.  A new Gallup poll finds that while U.S. adults overall are...",
+            "url": "https://www.yahoo.com/news/articles/americans-think-socialism-capitalism-according-150845501.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vkavFS6vjq8rckKTHVtShw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/ap.org/1748c63806557a6a0cff9b76b73b84e8",
+            "publishedAt": "2025-09-08T15:08:45Z",
+            "content": "WASHINGTON (AP) For years, Republicans have disparaged their political rivals by describing them as socialists. But that may not be the insult it once was for rank-and-file Democrats, who have warmed… [+5678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "Elizabeth Kim",
+            "title": "Zohran Mamdani town hall back on after Jimmy Kimmel returns to ABC",
+            "description": "Zohran Mamdani earns $142,000 as an assemblymember representing Queens.\n \n\nMamdani had said Kimmel’s suspension had a chilling effect on First Amendment rights. [ more › ]",
+            "url": "https://gothamist.com/news/zohran-mamdani-withdraws-from-abc-town-hall-in-protest-of-jimmy-kimmels-suspension",
+            "urlToImage": "https://api-prod.gothamist.com/images/352889/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-09-22T23:26:00Z",
+            "content": "Zohran Mamdani said Monday he was looking to reschedule a town with WABC, citing the parent networks decision to put Jimmy Kimmels late-night television show back on the airwaves.\r\nLast week, Disney/… [+3503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Jacobin.com"
+            },
+            "author": null,
+            "title": "New Poll: Democratic Socialism Is Now Mainstream",
+            "description": "A national poll from Jacobin, DSA Fund, and Data for Progress finds broad support for democratic socialist leaders and left-wing policies.",
+            "url": "https://jacobin.com/2025/09/new-poll-democratic-socialism-mainstream/",
+            "urlToImage": "https://images.jacobinmag.com/wp-content/uploads/2025/09/13081428/GettyImages-2233483883.jpg",
+            "publishedAt": "2025-10-04T19:27:01Z",
+            "content": "A new national survey commissioned by DSA Fund and Jacobin, with support from the Rosa Luxemburg Stiftung, and fielded by Data for Progress (N=1,257 likely voters; MOE ±3) takes stock of where democr… [+2688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Grist"
+            },
+            "author": "Rebecca Egan McCarthy",
+            "title": "New York’s mayoral race could decide the city’s climate future",
+            "description": "The nation's largest city has an ambitious plan to cut emissions. Mayoral frontrunners Andrew Cuomo and Zohran Mamdani could make or break it.",
+            "url": "http://grist.org/article/new-yorks-mayoral-race-could-decide-the-citys-climate-future/",
+            "urlToImage": "https://grist.org/wp-content/uploads/2025/06/new-york-city-mayor-race-climate-cuomo-mamdani.jpeg?quality=75&strip=all",
+            "publishedAt": "2025-06-20T22:02:14Z",
+            "content": "Six years ago, New York City Mayor Bill de Blasio hosted a chaotic press conference in the lobby of Trump Tower to announce the citys commitment to its version of the Green New Deal. \r\nThe mayor, who… [+7387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Russell Payne",
+            "title": "Mamdani’s Democratic critics want to ruin his shot at winning",
+            "description": "Former New York Gov. David Paterson, a Democrat, insists he's not alone in hoping that his party loses in November",
+            "url": "https://www.salon.com/2025/07/08/mamdanis-democratic-critics-want-to-ruin-his-shot-at-winning/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/07/zohran-mamdani-2221884290.jpg",
+            "publishedAt": "2025-07-08T10:30:39Z",
+            "content": "The former governor of New York, David Paterson, told Salon that he thinks elected Democrats in New York may be preparing to back a candidate other than state Rep. Zohran Mamdani, who won the partys … [+5189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Yves Smith",
+            "title": "Trump’s Homeland Security Council Sets Its Sights on Zohran Mamdani",
+            "description": "A window into the thuggish efforts to sabotage Zohran Mamdani bid for New York City mayor, here by the Department of Homeland Security.",
+            "url": "https://www.nakedcapitalism.com/2025/07/trumps-homeland-security-council-sets-its-sights-on-zohran-mamdani.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2025/07/00-Zohran-Mamdani.webp",
+            "publishedAt": "2025-07-03T06:26:18Z",
+            "content": "Yves here. This post makes clear the open thuggishness among opponents of Muslim candidate for New York City mayor, Zohran Mamdani, whose second sin is being a democratic socialist and wanting govern… [+5548 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Cheyenne McNeill",
+            "title": "Mamdani revisits comments on defunding police following New York shooting",
+            "description": "Mamdani has a history of criticizing the NYPD, but said on Wednesday that he doesn't plan to defund the department.",
+            "url": "https://www.salon.com/2025/07/31/mamdani-revisits-comments-on-defunding-police-following-new-york-shooting/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/07/GettyImages-2223243702.jpg",
+            "publishedAt": "2025-07-31T21:41:24Z",
+            "content": "In the wake of New York City’s deadliest mass shooting in 25 years, mayoral candidate Zohran Mamdani is revisiting previous calls to defund the police.\r\nDidarul Islam, a New York Police Department of… [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Alex Galbraith",
+            "title": "Buttigieg: Democrats need to learn from Mamdani to beat Trumpism",
+            "description": "The former Cabinet member said his party needs to take cues from the mayoral candidate if it hopes to beat Trumpism",
+            "url": "https://www.salon.com/2025/07/29/buttigieg-democrats-need-to-learn-from-mamdani-to-beat-trumpism/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/07/GettyImages-2214542371.jpg",
+            "publishedAt": "2025-07-29T21:11:20Z",
+            "content": "The establishment wing of the Democratic Party tried a show of force in the New York mayoral primary. It didn’t work.\r\nPete Buttigieg thinks the old guard’s faceplant could be more than just an embar… [+1702 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "New York City Mayor Eric Adams being eyed as Saudi ambassador: Reports",
+            "description": "Sources tell US media the move aims to withdraw Adams from mayoral race to strengthen Cuomo and defeat Mamdani.",
+            "url": "https://www.aljazeera.com/news/2025/9/5/new-york-city-mayor-eric-adams-being-eyed-as-saudi-ambassador-reports",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/09/reuters_68baea09-1757080073.jpg?resize=1920%2C1440",
+            "publishedAt": "2025-09-05T14:54:26Z",
+            "content": "Members of the Trump administration have been considering offering New York City Mayor Eric Adams the role of ambassador to Saudi Arabia, United States media have reported.\r\nThe plan, according to re… [+2084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Conor Murray, Forbes Staff, \n Conor Murray, Forbes Staff\n https://www.forbes.com/sites/conormurray/",
+            "title": "Sequoia’s Maguire Unfairly Targets Zohran Mamdani’s Father, Fellow Academic Says",
+            "description": "Critics including venture capitalist Shaun Maguire and billionaire Bill Ackman have targeted Mahmood Mamdani’s academic writing on social media in recent days.",
+            "url": "https://www.forbes.com/sites/conormurray/2025/07/11/sequoias-maguire-unfairly-targets-zohran-mamdanis-father-fellow-academic-says/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/687172b57e9f4281e85278d9/0x0.jpg?format=jpg&crop=2553,1436,x79,y115,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-07-11T20:24:20Z",
+            "content": "Screenshots of academic work written by Mahmood Mamdani, a Columbia University professor and father of New York mayoral candidate Zohran Mamdani, have gone viral on social media as critics accuse him… [+4253 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheBlaze"
+            },
+            "author": "BlazeTV Staff",
+            "title": "Who is funding Zohran Mamdani?",
+            "description": "If government-funded grocery stores didn’t tip you off that something was off about New York City mayoral candidate Zohran Mamdani, some recent findings about his past should do the trick.Mamdani is currently in a very comfortable lead and according to the po…",
+            "url": "https://www.theblaze.com/shows/the-liz-wheeler-show/who-is-funding-zohran-mamdani",
+            "urlToImage": "https://www.theblaze.com/media-library/image.jpg?id=61465125&width=1200&height=600&coordinates=0%2C0%2C0%2C120",
+            "publishedAt": "2025-08-14T19:30:00Z",
+            "content": "If government-funded grocery stores didnt tip you off that something was off about New York City mayoral candidate Zohran Mamdani, some recent findings about his past should do the trick.\r\nMamdani is… [+2550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Blaise Malley",
+            "title": "Trump team offered Eric Adams job to help Andrew Cuomo stop Zohran Mamdani: report",
+            "description": "Adams reportedly met with members of Trump’s team during a trip to Florida this week.",
+            "url": "https://www.salon.com/2025/09/04/trump-team-offered-eric-adams-job-to-help-andrew-cuomo-stop-zohran-mamdani-report/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/02/eric_adams_2199882227.jpg",
+            "publishedAt": "2025-09-04T15:26:52Z",
+            "content": "New York City Mayor Eric Adams is brushing off reports that he might abandon his reelection campaign after reports emerged that President Donald Trumps administration has explored offering him a post… [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Richard McGahey, Contributor, \n Richard McGahey, Contributor\n https://www.forbes.com/sites/richardmcgahey/",
+            "title": "Can A Socialist Mayor Mamdani Deliver For New York City?",
+            "description": "Can socialist Zohran Mamdani be an effective New York City mayor and keep his progressive policy ideas?",
+            "url": "https://www.forbes.com/sites/richardmcgahey/2025/06/25/can-a-socialist-mayor-mamdani-deliver-for-new-york-city/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685bf537090d213a9cb06b4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-06-25T13:28:32Z",
+            "content": "NEW YORK, NEW YORK - JUNE 24: New York mayoral candidate, Zohran Mamdani speaks to supporters as he ... More wins the Democratic primary (Photo by Michael M. Santiago/Getty Images)\r\nGetty Images\r\nIn … [+7005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "Elizabeth Kim",
+            "title": "Zohran Mamdani hires more security, citing 'new level' of threats in NYC mayor's race",
+            "description": "Zohran Mamdani's campaign is spending significantly more money on security than his rivals, public filings show.\n \n\nMamdani said racist and Islamophobic threats are not new for him but they recently reached a “new level of specificity.” [ more › ]",
+            "url": "https://gothamist.com/news/zohran-mamdani-hires-more-security-citing-new-level-of-threats-in-nyc-mayors-race",
+            "urlToImage": "https://api-prod.gothamist.com/images/351871/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-06-17T17:53:00Z",
+            "content": "Zohran Mamdanis meteoric rise from progressive state assemblymember to a leading candidate for mayor of New York City has been accompanied by an alarming rise in threats, his campaign said.\r\nMamdanis… [+7104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Ellie Quinlan Houghtaling",
+            "title": "Andrew Cuomo Ad Leans Into Racism With Edited Photo of Zohran Mamdani",
+            "description": "A pro–Andrew Cuomo super PAC released a mailer this week that modified the image of Zohran Mamdani, the progressive front-runner in New York City’s mayoral race, to appear as if he has a darker, longer beard.\r\nThe altered image of Mamdani, a New York state re…",
+            "url": "https://newrepublic.com/post/196734/andrew-cuomo-ad-edited-photo-zohran-mamdani",
+            "urlToImage": "https://images.newrepublic.com/942b90eff332e055d297640f2573dd91df4fe634.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-06-12T16:10:56Z",
+            "content": "A proAndrew Cuomo super PAC released a mailer this week that modified the image of Zohran Mamdani, the progressive front-runner in New York Citys mayoral race, to appear as if he has a darker, longer… [+1902 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Republicans, X accused of spreading racism, Islamophobia in posts about NYC's Mamdani",
+            "description": "Zohran Mamdani's Democratic primary upset this week in New York City has been followed by a surge in anti-Muslim posts, including by some Republican lawmakers.",
+            "url": "https://www.cbc.ca/news/world/nyc-mamdani-posts-1.7572407",
+            "urlToImage": "https://i.cbc.ca/1.7572472.1751029704!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/election-2025-nyc-mayor.jpg?im=Resize%3D620",
+            "publishedAt": "2025-06-27T14:44:01Z",
+            "content": "Zohran Mamdani's Democratic primary upset this week in New York City has sparked anti-Muslim posts that have included death threats and comments comparing his candidacy to the Sept. 11, 2001, attacks… [+6313 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "Brigid Bergin",
+            "title": "Andrew Cuomo relaunches campaign for mayor after losing primary to Zohran Mamdani",
+            "description": "Andrew Cuomo is back in the mayor's race.\n \n\nCuomo released a video that signaled a shift in tone as he mounts a campaign as an independent. [ more › ]",
+            "url": "https://gothamist.com/news/andrew-cuomo-relaunches-campaign-for-mayor-after-losing-primary-to-zohran-mamdani",
+            "urlToImage": "https://api-prod.gothamist.com/images/352353/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-07-14T21:28:00Z",
+            "content": "Andrew Cuomo says hes truly sorry for running a poor campaign for the Democratic primary but now hes in it to win it.\r\nThe former governor announced Monday he plans to actively campaign for New York … [+5716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Nathan Goldman, Contributor, \n Nathan Goldman, Contributor\n https://www.forbes.com/sites/nathangoldman/",
+            "title": "3 Key Issues Surrounding Zohran Mamdani’s New York City Tax Increase",
+            "description": "This article discusses who Mamdani is, what about NYC taxes Mamdani proposes to alter, and three key issues with his plans to increase taxes on NYC taxpayers.",
+            "url": "https://www.forbes.com/sites/nathangoldman/2025/06/25/3-key-issues-surrounding-zohran-mamdanis-new-york-city-tax-increase/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/685c0668c54fd55c01d581d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2025-06-25T14:42:55Z",
+            "content": "New York City mayoral candidate and Democratic State Representative Zohran Mamdani campaigns in New ... More York City on April 16, 2025. Voters will head to the polls on June 24, 2025, to vote in th… [+7172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Alex Galbraith",
+            "title": "“Not getting any money”: Trump says he’ll pull NYC’s federal funding if Mamdani wins mayorship",
+            "description": "Trump threatened the city's federal funding on the same day that Mamdani said billionaires should not exist.",
+            "url": "https://www.salon.com/2025/06/29/not-getting-any-money-trump-says-hell-pull-nycs-federal-funding-if-mamdani-wins-mayorship/",
+            "urlToImage": "https://www.salon.com/app/uploads/2024/09/donald-trump-2169708774.jpg",
+            "publishedAt": "2025-06-29T19:18:55Z",
+            "content": "President Donald Trump threatened to cut New York City’s federal funding if Democratic candidate Zohran Mamdani wins the upcoming mayoral election.\r\nMamdani, a progressive candidate who identifies as… [+2349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Grace Segers",
+            "title": "These Are Obstacles to Zohran Mamdani’s Plans for New York City",
+            "description": "Last month, The New York Times editorial board urged Democratic voters in New York City against supporting mayoral candidate Zohran Mamdani. With only five years under his belt as a state assemblyman, the board wrote, the 33-year-old would “bring less relevan…",
+            "url": "https://newrepublic.com/article/197466/zohran-mamdani-policy-agenda-obstacles",
+            "urlToImage": "https://images.newrepublic.com/94cf70f3e7eb00dc422bf536ea7a6f829aad7920.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2025-07-02T10:00:00Z",
+            "content": "State legislators would need to approve Mamdanis plan to implement free buses, as the Metropolitan Transportation Authority is a state-run agency. One of Mamdanis signature achievements in the Assemb… [+1714 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Yves Smith",
+            "title": "The Sad (Very Familiar) New York Times and Its Mamdani Hit Piece",
+            "description": "The hit parade, as in the hit piece parade, on New York City mayor candidate Zohran Mamdani, is still in high gear.",
+            "url": "https://www.nakedcapitalism.com/2025/07/the-sad-very-familiar-new-york-times-and-its-mamdani-hit-piece.html",
+            "urlToImage": null,
+            "publishedAt": "2025-07-09T13:55:29Z",
+            "content": "Yves here. I was considering running another piece in this slot, but the evidence of the collective establishment meltdown over Mamdani continues. It’s revealing how the prospect of an supposed econo… [+9946 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vox"
+            },
+            "author": "Andrew Prokop",
+            "title": "The three-way battle for the Democratic Party",
+            "description": "A three-sided debate has broken out over the Democratic Party’s future.  On one side is the party establishment, damaged by the disappointing end to the Biden era but seeking to rebrand itself with a new agenda it hopes will better appeal to voters. Two main …",
+            "url": "https://www.vox.com/politics/419913/democratic-agenda-abundance-zohran-mamdani-project-2029",
+            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2025/07/GettyImages-2223808956.jpg?quality=90&strip=all&crop=0%2C10.785131724411%2C100%2C78.429736551177&w=1200",
+            "publishedAt": "2025-07-16T22:09:10Z",
+            "content": "Zohran Mamdani, the Democratic nominee for New York City mayor, participates in an endorsement event with Congressman Adriano Espaillat at the United Palace Theater in Manhattan, New York, United Sta… [+10097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": "Brigid Bergin, Joe Hong",
+            "title": "Ranked-choice ballot count gives Zohran Mamdani even bigger win in NYC mayoral primary",
+            "description": "Zohran Mamdani's win in the Democratic primary has prompted hand wringing within the party.\n \n\nThe new tally comes as the Democratic Party continues to wrestle with the implications of Mamdani’s historic upset win. [ more › ]",
+            "url": "https://gothamist.com/news/rank-choice-ballot-count-gives-zohran-mamdani-even-bigger-win-in-nyc-mayoral-primary",
+            "urlToImage": "https://api-prod.gothamist.com/images/352153/fill-1200x650|format-webp|webpquality-85/",
+            "publishedAt": "2025-07-01T17:10:00Z",
+            "content": "Zohran Mamdanis win in the New York City Democratic mayoral primary was even more dominant than it initially appeared.\r\nA ranked choice tabulation Tuesday showed the Queens assemblymember reached 56%… [+3382 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Russell Payne",
+            "title": "Mamdani campaign vets are starting to help other Democrats",
+            "description": "The team behind Zohran Mamdani's viral videos is now working to elect more progressives from coast to coast",
+            "url": "https://www.salon.com/2025/09/24/mamdani-campaign-vets-are-starting-to-help-other-democrats/",
+            "urlToImage": "https://www.salon.com/app/uploads/2025/08/Zohran-Mamdani-2221992196.jpg",
+            "publishedAt": "2025-09-24T14:56:06Z",
+            "content": "Some of the operatives who helped state Rep. Zohran Mamdani secure the Democratic nomination for mayor in New York City are fanning out to assist like-minded Democrats in their own races.\r\nThat work … [+2740 chars]"
+        }
+    ]
 }
