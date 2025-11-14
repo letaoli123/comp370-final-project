@@ -1,0 +1,62 @@
+{
+    "warnings": [
+        "limit is higher than your plan allows"
+    ],
+    "meta": {
+        "found": 14240,
+        "returned": 3,
+        "limit": 3,
+        "page": 1
+    },
+    "data": [
+        {
+            "uuid": "1eea12f2-1fd1-46c8-989c-c1e43838eef2",
+            "title": "Democrat Zohran Mamdani wins New York City Mayor election, first Muslim leader for NYC",
+            "description": "Zohran Mamdani wins the New York City Mayoral polls. Mamdani becomes the first Muslim leader in New York City, and its youngest Mayor.",
+            "keywords": "Zohran Mamdani, Zohran Mamdani mayor, Zohran Mamdani New York City Mayor, DNA Snips",
+            "snippet": "Zohran Mamdani wins the New York City Mayoral polls. Mamdani becomes the first Muslim leader in New York City, and its youngest Mayor.\n\nDemocrat Zohran Mamdani ...",
+            "url": "https://www.dnaindia.com/world/report-democrat-zohran-mamdani-wins-new-york-city-mayor-poll-first-muslim-leader-for-nyc-3186760",
+            "image_url": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2025/11/05/2728947-zohran-mamdani.jpg",
+            "language": "en",
+            "published_at": "2025-11-05T02:38:00.000000Z",
+            "source": "dnaindia.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 102.078835
+        },
+        {
+            "uuid": "94f5851f-fb3d-4a01-9cea-73385030f2e9",
+            "title": "Who Is Zohran Mamdani, Indian-Origin Contesting New York Mayoral Polls",
+            "description": "Indian-origin New York State Assemblyman Zohran Mamdani has emerged as a surprise contender in the 2025 New Yorkmayoral race.",
+            "keywords": "Zohran Mamdani, New York mayor, Queens, Zohran Mamdani indian origin, Zohran Mamdani new york mayor elections, new york mayor elections, Zohran Mamdani polls, Zohran Mamdani wife, Zohran Mamdani parents, Zohran Mamdani ethnicity, Zohran Mamdani mira nair, Zohran Mamdani partner, New York Mayor Election, New York mayor polls",
+            "snippet": "Indian-origin New York State Assemblyman Zohran Mamdani has emerged as a surprise contender in the 2025 New York mayoral race. Representing Queens, the 33-year-...",
+            "url": "https://www.ndtv.com/world-news/who-is-zohran-mamdani-indian-origin-contesting-new-york-mayoral-election-8616523#publisher=newsstand",
+            "image_url": "https://c.ndtvimg.com/2025-06/ta74fg7o_zohran-mamdani_625x300_08_June_25.jpeg",
+            "language": "en",
+            "published_at": "2025-06-08T08:36:08.000000Z",
+            "source": "ndtv.com",
+            "categories": [
+                "general"
+            ],
+            "relevance_score": 100.70192
+        },
+        {
+            "uuid": "0c966bd2-2a8b-400d-98a2-b2a668bfb771",
+            "title": "‘He sounds more Pakistani than Indian’, says Kangana Ranaut on Zohran Mamdani",
+            "description": "Zohran Mamdani, son of filmmaker Mira Nair, wins Democratic mayoral primary, sparking controversy over his identity.",
+            "keywords": "Kangana Ranaut, Kangana Ranaut slams Zohran Mamdani, Zohran Mamdani on Hinduism, Abhishek Singhvi on Zohran Mamdani",
+            "snippet": "Congress MP Abhishek Singhvi on Thursday (June 26, 2025) said, \"Pakistan's PR takes the day off\" when New York's mayoral candidate Zohran Mamdani speaks, string...",
+            "url": "https://www.thehindu.com/news/national/kangana-ranaut-congresss-singhvi-slams-zohran-mamdanis-pro-pak-rhetoric/article69740066.ece",
+            "image_url": "https://th-i.thgim.com/public/news/national/3lnn38/article69740110.ece/alternates/LANDSCAPE_1200/Untitled%20design%203.png",
+            "language": "en",
+            "published_at": "2025-06-26T11:25:46.000000Z",
+            "source": "thehindu.com",
+            "categories": [
+                "general",
+                "politics"
+            ],
+            "relevance_score": 100.45465
+        }
+    ]
+}
