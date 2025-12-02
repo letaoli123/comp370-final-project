@@ -1,0 +1,756 @@
+[
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Watch Fox News Channel Online | Stream Fox News",
+        "description": "Watch live news and updates that are happening right now with Fox News. Stay up-to-date with the latest and most trending news going on in real-time.",
+        "url": "https://www.foxnews.com/video/5614615980001",
+        "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/15de0523-3be4-4a9a-8159-7020114e7036/b6ff623a-26d6-4fd9-8bb8-0856adbf38ce/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+        "publishedAt": "2025-12-01T18:37:12.6091825Z",
+        "content": "©2025 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes."
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Minnesota judge under fire for tossing $7.2M taxpayer-fraud conviction tied to alleged ‘lavish lifestyle’",
+        "description": "Minnesota Judge Sarah West sparks controversy after overturning jury's guilty verdict in $7.2 million Medicaid fraud case, citing insufficient evidence.",
+        "url": "https://www.foxnews.com/us/minnesota-judge-under-fire-tossing-7-2m-taxpayer-fraud-conviction-tied-alleged-lavish-lifestyle",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/sarah-west-judge.jpg",
+        "publishedAt": "2025-12-01T18:22:22.3109207Z",
+        "content": "A judge in Minnesota is facing heat after she overturned a guilty verdict for two people convicted in a $7.2 million fraud scheme that involved taxpayer money.\r\nAbdifatah Yusuf and his wife Lul Ahmed… [+4013 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": null,
+        "title": "Winter storm to morph into bomb cyclone as it hits the Northeast",
+        "description": "A bomb cyclone will take shape and deliver a punch of snow to millions in the Northeast after it dumps more snow on the snowy Midwest.",
+        "url": "https://www.cnn.com/weather/live-news/winter-storm-bomb-cylone-climate",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-27714849.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T18:12:06Z",
+        "content": "Chicago, Madison, Wisconsin, and Springfield, Illinois, are set for another burst of snow just two days after all three locations had their record-snowiest November day.\r\nOf those cities, Chicago and… [+406 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Amazon and Google’s new cloud link could make it easier to deal with outages",
+        "description": "Google and Amazon Web Services are teaming up on a new tool that will allow customers to connect both cloud services within “minutes,” providing a potential safety net in case of internet outages.",
+        "url": "https://www.theverge.com/news/835077/google-cloud-aws-multicloud-link-backup",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STKB371_AMAZON_WEB_SERVICES_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-01T18:06:02+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe new tool will allow customers to connect to both cloud providers within minutes.\r\nThe new tool will allow customers to connect to both cloud providers within… [+2508 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Matt Egan",
+        "title": "You’re paying more for less this shopping season. Now there’s proof",
+        "description": "Black Friday once again proved that Americans are willing to shop when they spot bargains.",
+        "url": "https://www.cnn.com/2025/12/01/business/cyber-monday-deals-black-friday-prices",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2248284856.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T17:59:38Z",
+        "content": "Black Friday once again proved that Americans are willing to shop when they spot bargains.\r\nMastercard reported a steady 4.1% increase in US retail sales on Black Friday and Adobe Analytics said onli… [+4126 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Oxford debate society leader who celebrated Charlie Kirk's shooting now apologizing to his family",
+        "description": "Oxford Union's former president-elect George Abaraonye apologized to Charlie Kirk's family after celebrating the shooting of the conservative speaker.",
+        "url": "https://www.foxnews.com/media/oxford-debate-society-leader-who-celebrated-charlie-kirks-shooting-now-apologizing-his-family",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/charlie-kirk-shot-utah_100.jpg",
+        "publishedAt": "2025-12-01T17:52:19.296972Z",
+        "content": "The former president-elect of the Oxford Union, the debating society at the University of Oxford, is apologizing to Charlie Kirks family after previously celebrating Kirks death. \r\nAfter Kirks assass… [+2371 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Allan Smith, Henry J. Gomez, Jonathan Allen",
+        "title": "AI becomes a political wedge issue, creating odd bedfellows across parties",
+        "description": "Artificial intelligence is increasingly emerging as a key wedge issue — not between the major political parties, but within them.",
+        "url": "https://www.nbcnews.com/politics/elections/ai-wedge-issue-midterms-2028-bedfellows-rcna244811",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251119-desantis-aoc-gk-874c9d.jpg",
+        "publishedAt": "2025-12-01T17:43:32Z",
+        "content": "Artificial intelligence is increasingly emerging as a key wedge issue not between the major political parties, but within them. \r\nOn the right, MAGA populists and influencers are warning about the po… [+12046 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Brandon Russell",
+        "title": "Today is your last chance to score Cyber Monday deals on Disney Plus, Hulu, and HBO Max",
+        "description": "Several streaming services — including Disney Plus, Apple TV, and HBO Max — are offering discounts through Cyber Monday, with prices starting at $2.99 per month.",
+        "url": "https://www.theverge.com/gadgets/834862/best-cyber-monday-streaming-deals-disney-plus-hulu-paramount-hbo-max-2025",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708543/it_welcome_to_derry_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-01T17:31:04+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can still lock in an annual subscription to Disney Plus and Hulu for just $4.99 a month.\r\nYou can still lock in an annual subscription to Disney Plus and Hul… [+7125 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "John Higgins",
+        "title": "Get a fantastic 55-inch OLED in your home for $900 on Cyber Monday",
+        "description": "The entry-level LG B5 OLED TV is the best way to get incredible OLED performance into your home without spending a premium for TVs from Sony and Samsung.",
+        "url": "https://www.theverge.com/gadgets/834390/lg-b5-oled-tv-cyber-monday-deal-sale-2025",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/lg-b5-oled-cyber-monday-lead.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613",
+        "publishedAt": "2025-12-01T17:25:36+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe LG B5 is a great pick for cinephiles and gamers alike who dont want to spend a ton of money on OLED.\r\nThe LG B5 is a great pick for cinephiles and gamers ali… [+3201 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Reuters",
+        "title": "US Cyber Monday spending to hit $14.2 billion, Adobe forecasts",
+        "description": "U.S. consumers are expected to spend $14.2 billion on Cyber Monday, building on strong Black Friday momentum.",
+        "url": "https://www.nbcnews.com/business/business-news/cyber-monday-spending-rcna246797",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251201-online-shopping-stock-mn-1215-287c8f.jpg",
+        "publishedAt": "2025-12-01T17:24:39Z",
+        "content": "U.S. consumers are expected to spend $14.2 billion on Cyber Monday, according to Adobe Analytics, set to build on strong Black Friday momentum as AI-powered shopping tools drive online sales.\r\nAmeric… [+1434 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "N'dea Yancey-Bragg",
+        "title": "What we know and don't know about California mass shooting suspect",
+        "description": "Police have not released a suspect description or information about a potential motive for the attack, which left four dead and 11 others injured.",
+        "url": "https://www.usatoday.com/story/news/nation/2025/12/01/stockton-california-mass-shooting-suspect/87549436007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/NRCD/87544804007-masw-shoot-vigil-053-a.jpg?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T17:24:31+00:00",
+        "content": "As the city of Stockton mourns the four people killed at a child's birthday party over the Thanksgiving holiday weekend, little is known about the suspect or suspects responsible.\r\nInvestigators have… [+2186 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Amazon's Cyber Monday deals are here: Up to 72% off tools, tech and clothes",
+        "description": "Amazon's Cyber Monday deals include Levi’s that are less than $50 and generators up to 59% off.",
+        "url": "https://www.foxnews.com/deals/amazon-black-friday-cyber-monday-deals",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/fox_news_deals_amazon_cyber_monday_deals_112925.png",
+        "publishedAt": "2025-12-01T17:07:40.3114253Z",
+        "content": "Amazons Cyber Monday sale is here, and we found all the best deals available, including generators for up to 59% off and Levi's jeans for less than $50, just to name a few. We'll be updating this art… [+19476 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Brian Walshe defense says he found wife dead in bed, denies uncovering affair as murder trial begins",
+        "description": "Brian Walshe pleads guilty to misleading police but still faces murder charges in wife's disappearance case involving alleged dismemberment plot.",
+        "url": "https://www.foxnews.com/us/brian-walshe-defense-says-he-found-wife-dead-bed-denies-uncovering-affair-murder-trial-begins",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/ana-brian-walshe-split.png",
+        "publishedAt": "2025-12-01T17:07:26.2031207Z",
+        "content": "The murder trial of a convicted Massachusetts fraudster accused of killing his wife after learning of an affair kicked off Monday, with prosecutors delivering an opening statement that began shortly … [+2544 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Trump mocks CBS reporter on Air Force One as he defends MRI results",
+        "description": "President Donald Trump hit back at CBS journalist Weijia Jiang during an Air Force One gaggle on Sunday as the journalist confronted him on his MRI results.",
+        "url": "https://www.foxnews.com/media/president-trump-jabs-cbs-reporter-air-force-one-he-defends-mri-results",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/trump-jabs-cbs-reporter.jpg",
+        "publishedAt": "2025-12-01T17:07:22.4361117Z",
+        "content": "President Donald Trump jabbed at CBS journalist Weijia Jiang on Sunday during an Air Force One gaggle, as the reporter pressed the president on what part of the body he had an MRI on.\r\n\"I have no ide… [+2587 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Brandt Ranj",
+        "title": "Apple’s smallest iPad just got its biggest price cut for Cyber Monday",
+        "description": "The 128GB iPad Mini with Wi-Fi is on sale at Amazon and Best Buy starting at $349 ($150 off) for Cyber Monday. That’s the tablet’s lowest price ever.",
+        "url": "https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg?quality=90&strip=all&crop=0%2C10.806933475316%2C100%2C78.386133049368&w=1200",
+        "publishedAt": "2025-12-01T17:01:32+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe iPad Mini is a compact tablet with enough power to run Apple Intelligence.\r\nThe iPad Mini is a compact tablet with enough power to run Apple Intelligence.\r\nb… [+2898 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Greta Cross",
+        "title": "Starbucks strike enters week 3. Can you still get a Peppermint Mocha?",
+        "description": "Starbucks Workers United began striking on Nov. 13. Here's the latest and if the strike is impacting customers.",
+        "url": "https://www.usatoday.com/story/money/2025/12/01/starbucks-strike-update-why/87549851007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87550050007-usatsi-27692707.jpg?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T16:57:05+00:00",
+        "content": "Some Starbucks workers are entering the third week of a strike the company says has had little impact on its business or its customers.\r\nStarbucks Workers United, which represents employees at about … [+2951 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Stevie Bonifield",
+        "title": "India is ordering Apple and other phone makers to preinstall a state-owned app",
+        "description": "Apple, Samsung, Oppo, and other manufacturers are being ordered to preload the state-backed Sanchar Saathi security app on all new phones sold in India.",
+        "url": "https://www.theverge.com/news/834998/india-sanchar-saathi-app-order-apple-android",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/gettyimages-2235695907.jpg?quality=90&strip=all&crop=0%2C10.84942233035%2C100%2C78.3011553393&w=1200",
+        "publishedAt": "2025-12-01T16:53:18+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nReuters reports that the Sanchar Saathi app will be required on new phones and cant be disabled\r\nReuters reports that the Sanchar Saathi app will be required on … [+2825 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Rebecca Shabad",
+        "title": "Trump commutes 7-year prison sentence of former private equity CEO David Gentile",
+        "description": "WASHINGTON — President Donald Trump has commuted the seven-year sentence of former private equity CEO David Gentile, a White House official confirmed",
+        "url": "https://www.nbcnews.com/politics/white-house/trump-commutes-7-year-prison-sentence-former-private-equity-ceo-david-rcna246744",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251201-donald-trump-mn-1040-c7a112.jpg",
+        "publishedAt": "2025-12-01T16:38:05Z",
+        "content": "WASHINGTON President Donald Trump has commuted the seven-year sentence of former private equity CEO David Gentile, a White House official confirmed.\r\nGentile was sentenced in May to seven years in pr… [+3427 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Kathy Griffin says she’s made ‘Trumper friends’ years after bloody Trump photo sparked outrage",
+        "description": "Comedian Kathy Griffin reveals she now has President Donald Trump supporter friends years after her controversial 2017 photo sparked outrage and career consequences.",
+        "url": "https://www.foxnews.com/media/kathy-griffin-says-shes-made-trumper-friends-years-after-bloody-trump-photo-sparked-outrage",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/kathy-griffin-donald-trump-fox-news.jpg",
+        "publishedAt": "2025-12-01T16:37:25.2333198Z",
+        "content": "Comedian Kathy Griffin is reflecting on the backlash from her controversial 2017 photo featuring a mock severed head of President Donald Trump that ignited national outrage. She said her outlook has … [+2077 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Nikki Haley’s son urges GOP to step in as Gen Z reaches breaking point on jobs, housing",
+        "description": "Nikki Haley's son slams Republican leaders as a \"glorified nursing home\" over Gen Z's economic struggles, including record unemployment and a housing affordability crisis.",
+        "url": "https://www.foxnews.com/media/nikki-haleys-son-urges-gop-step-gen-z-reaches-breaking-point-jobs-housing",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/nikki-haley-son-nalin-haley.jpg",
+        "publishedAt": "2025-12-01T16:37:21.3749057Z",
+        "content": "Former U.N. Ambassador Nikki Haley's son Nalin Haley on Monday accused Republicans of failing to acknowledge disillusioned Gen Z voters' struggles with unemployment and affordability.\r\n\"The first ste… [+2360 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Betsy Klein",
+        "title": "Inside this year’s White House holiday decor",
+        "description": "It took 150 volunteers working for one week, with 25,000 feet of ribbon, 120 pounds of gingerbread, more than 10,000 butterflies and a 6,000-piece Lego portrait of President Donald Trump’s likeness to deck the White House halls this year.",
+        "url": "https://www.cnn.com/2025/12/01/politics/white-house-holiday-decor-melania-trump",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2248770587.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T16:33:25Z",
+        "content": "It took 150 volunteers working for one week, with 25,000 feet of ribbon, 120 pounds of gingerbread, more than 10,000 butterflies and a 6,000-piece Lego portrait of President Donald Trumps likeness to… [+6256 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Bitcoin dips below $85,000 in crypto currency rout",
+        "description": "Bitcoin and companies tied to cryptocurrencies are extending a nearly two-month swoon, tracking with a broader market sell-off in technology companies that many see as overvalued",
+        "url": "https://abcnews.go.com/Business/wireStory/bitcoin-dips-below-85000-crypto-currency-rout-128005019",
+        "urlToImage": "https://i.abcnewsfe.com/a/ba3c4a30-ad20-4715-9a59-16e345faed55/wirestory_c361fe86e2f42d933e7e57928dae5be3_16x9.jpg?w=1600",
+        "publishedAt": "2025-12-01T16:32:01Z",
+        "content": "Bitcoin and companies tied to cryptocurrencies extended a nearly two-month swoon Monday, tracking with a broader market sell-off in technology companies that many see as overvalued.\r\nBitcoin, which s… [+1609 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "David K. Li",
+        "title": "U.S. Marshals join hunt for fugitive Virginia football coach, warn he may be armed",
+        "description": "Federal authorities joined the search for a fugitive high school football coach being sought in connection to a child sex abuse image and solicitation probe in Virginia — and warn he may be armed",
+        "url": "https://www.nbcnews.com/news/us-news/us-marshals-join-hunt-fugitive-virginia-football-coach-warn-may-armed-rcna246782",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251124-Travis-L-Turner-gk-8662d5.jpg",
+        "publishedAt": "2025-12-01T16:28:54Z",
+        "content": "Federal authorities joined the search for a fugitive high school football coach being sought in connection to a child sex abuse image and solicitation probe in Virginia and warn he may be armed.\r\nThe… [+1318 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Emma Roth",
+        "title": "Runway says its new text-to-video AI generator has ‘unprecedented’ accuracy",
+        "description": "Runway says the new Gen-4.5 model of its AI video generator is capable of producing “cinematic” outputs that are better than the competition, like OpenAI’s Sora and Google Veo.",
+        "url": "https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/runway-ai-snowman.png?quality=90&strip=all&crop=0%2C11.278359511344%2C98.61149893869%2C77.443280977312&w=1200",
+        "publishedAt": "2025-12-01T16:25:12+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Gen-4.5 model is better at producing visuals that align with more complex prompts, according to Runway.\r\nThe Gen-4.5 model is better at producing visuals tha… [+2695 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "UK and US agree zero-tariff deal on pharmaceuticals",
+        "description": "Officials say the U.K. has sealed a deal securing a 0% tariff rate for all U.K. medicines exported to the U.S. for at least 3 years, in return for the U.K. spending more on new medicines",
+        "url": "https://abcnews.go.com/Health/wireStory/uk-us-agree-zero-tariff-deal-pharmaceuticals-128003967",
+        "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+        "publishedAt": "2025-12-01T16:18:15Z",
+        "content": "LONDON -- The U.K. has sealed a deal securing a 0% tariff rate for all U.K. medicines exported to the U.S. for at least 3 years, officials said Monday, in return for the U.K. spending more on new med… [+1247 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Matt Lavietes",
+        "title": "Andre Brown sentenced to time served after attempted murder sentence was overturned",
+        "description": "Andre Brown, who faced the prospect of going back to prison after his attempted murder conviction was reinstated in 2024, was ordered Monday to time served.",
+        "url": "https://www.nbcnews.com/news/us-news/andre-brown-sentenced-time-served-attempted-murder-sentence-was-overtu-rcna234647",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-04/250424-andre-brown-mb-0939-a6199f.jpg",
+        "publishedAt": "2025-12-01T16:13:03Z",
+        "content": "Andre Brown, who faced the prospect of going back to prison after his attempted murder conviction was reinstated in 2024, was ordered Monday to time served. \r\nBrown was sentenced to 40 years in priso… [+1568 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Anna Kaufman",
+        "title": "Millie Bobby Brown reveals new name",
+        "description": "Millie Bobby Brown is adding yet another name to her moniker, revealing she changed her title following her wedding to Jake Bongiovi.",
+        "url": "https://www.usatoday.com/story/entertainment/celebrities/2025/12/01/millie-bobby-brown-name-change/87549637007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/08/21/USAT/85761434007-1244281313.jpg?crop=4777,2687,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T16:01:39+00:00",
+        "content": "Millie Bobby Brown is adding yet another name to her moniker.\r\nThe \"Stranger Things\" star, who married rocker Jon Bon Jovi's son Jake Bongiovi in 2024, revealed in a recent interview that she has sin… [+1601 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Daniella Genovese",
+        "title": "Product sold at Walmart recalled due to risk of explosion",
+        "description": "Walmart recalls 201,000 'Ozark Trail' camping stoves after explosions caused burns to users. Stop using immediately and return to store for full refund.",
+        "url": "https://www.foxbusiness.com/lifestyle/product-sold-walmart-recalled-due-risk-explosion",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/walmart-shopper-cart.jpg?ve=1&tl=1",
+        "publishedAt": "2025-12-01T16:00:22Z",
+        "content": "Hundreds of thousands of outdoor camping stoves sold at Walmart are being recalled after several units reportedly exploded, causing second-degree burns.\r\nThe Consumer Product Safety Commission (CPSC)… [+2303 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Rebecca Cohen",
+        "title": "What we know about the California birthday party shooting that killed 4",
+        "description": "A shooter still on the loose claimed at least four lives when authorities say they opened fire on a banquet hall in Stockton, California, Saturday night during a birthday party",
+        "url": "https://www.nbcnews.com/news/us-news/know-california-birthday-party-shooting-killed-4-rcna246743",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251130-stockton-birthday-party-shooting-rc-8p-6ed390.jpg",
+        "publishedAt": "2025-12-01T16:00:07Z",
+        "content": "A shooter still on the loose claimed at least four lives when authorities say they opened fire on a banquet hall in Stockton, California, Saturday night during a birthday party.\r\nEleven more people w… [+4945 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Brandt Ranj",
+        "title": "You can save up to $100 on Seagate’s Xbox Expansion Cards for Cyber Monday",
+        "description": "Seagate’s Xbox Expansion Cards can give you up to 4TB of additional space for games, and they’re heavily discounted for Cyber Monday. The 2TB hit a new time low.",
+        "url": "https://www.theverge.com/gadgets/834745/seagate-storage-expansion-card-xbox-series-x-s-cyber-monday-deal-sale-2025",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/Seagate-Storage-Expansion-Card-2TB-Solid-State-Drive-for-Xbox-Series-XS.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-01T15:20:14+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can finally focus on playing games instead of moving them around.\r\nYou can finally focus on playing games instead of moving them around.\r\nby\r\nBrandt RanjClos… [+2582 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nilay Patel",
+        "title": "Why IBM CEO Arvind Krishna is still hiring humans in the AI era",
+        "description": "IBM CEO Arvind Krishna on Watson, the AI bubble, and why he’s hiring college grads.",
+        "url": "https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/DCD-Arvind-Krishna.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "publishedAt": "2025-12-01T15:06:52+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nIBM was early to AI with Watson and is still heavily invested in quantum computing. But Arvind Krishna is confident these bets will pay off.\r\nIBM was early to AI… [+62719 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Nathan Diller",
+        "title": "She went missing from a cruise. Police found her a week later.",
+        "description": "Ann Evans was located after she did not return to a Holland America Line cruise ship during a stop in Philipsburg, Sint Maarten.",
+        "url": "https://www.usatoday.com/story/travel/cruises/2025/12/01/missing-holland-america-cruise-guest-found/87545955007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87545958007-hmc-21-drone-inspire-2182.jpg?crop=5265,2961,x0,y484&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T15:01:08+00:00",
+        "content": "A Holland America Line guest was found after going missing during a Caribbean cruise.\r\nAnn Evans, 55, was located after she did not return to the cruise lines Rotterdam ship during a stop in Philipsb… [+1397 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Christopher Cann",
+        "title": "Luigi Mangione back in court for evidentiary hearing in NY murder case",
+        "description": "Luigi Mangione's attorneys argue that key pieces of evidence, including a notebook and a firearm, were illegally obtained.",
+        "url": "https://www.usatoday.com/story/news/nation/2025/12/01/luigi-mangione-unitedhealthcare-murder-case/87548298007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87548128007-20251201-t-133653-z-1441507633-rc-2-p-7-iap-6-tex-rtrmadp-3-unitedhealthceomangione.JPG?crop=5499,3093,x0,y550&width=3200&height=1800&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T14:52:26+00:00",
+        "content": "Luigi Mangione, the man accused of killing UnitedHealthcare CEO Brian Thompson, is set to return to court on Monday, Dec. 1, as his attorneys seek to get key pieces of evidence thrown out of his New … [+1329 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Kara Scannell",
+        "title": "Former Trump personal lawyer Alina Habba is unlawfully serving as the US attorney for New Jersey, appeals court says",
+        "description": "A federal appeals court on Monday found Alina Habba, President Donald Trump’s former personal attorney, is serving unlawfully as US attorney for New Jersey, dealing a legal blow to the Trump administration that could have far-reaching consequences on other ap…",
+        "url": "https://www.cnn.com/2025/12/01/politics/alina-habba-new-jersey-3rd-circuit",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25335503795720.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T14:25:08Z",
+        "content": "A federal appeals court on Monday found Alina Habba, President Donald Trumps former personal attorney, is serving unlawfully as US attorney for New Jersey, dealing a legal blow to the Trump administr… [+2594 chars]"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": null,
+        "title": "Trump hit with setback as court rules Alina Habba unlawfully served as top federal prosecutor in New Jersey",
+        "description": "The U.S. Court of Appeals for the Third Circuit issued a decision on Alina Habba, a fiery Trump loyalist appointed to serve as the acting U.S. attorney in New Jersey.",
+        "url": "https://www.foxnews.com/politics/trump-hit-setback-court-rules-alina-habba-unlawfully-served-top-federal-prosecutor-new-jersey",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/alina-habba-speaking.jpg",
+        "publishedAt": "2025-12-01T14:22:19.6080282Z",
+        "content": "An appellate court found on Monday that Alina Habba is unlawfully serving as the top prosecutor in New Jersey, delivering a blow to President Donald Trump as he fights to keep his preferred nominees … [+3816 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Gary Grumbach, Megan Lebowitz",
+        "title": "Appeals court upholds ruling that disqualified Alina Habba from serving as New Jersey's top prosecutor",
+        "description": "In a loss for the Trump administration, an appeals court on Monday upheld a lower court ruling disqualifying Alina Habba from her position as acting U.S. attorney for the District of New Jersey.",
+        "url": "https://www.nbcnews.com/politics/justice-department/appeals-court-upholds-ruling-disqualified-alina-habba-serving-new-jers-rcna246751",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-10/251021-alina-habba-zz-d812fd.jpg",
+        "publishedAt": "2025-12-01T14:21:57Z",
+        "content": "In a loss for the Trump administration, an appeals court on Monday upheld a lower court ruling disqualifying Alina Habba from her position as acting U.S. attorney for the District of New Jersey. \r\nIn… [+2361 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "'Rage bait’ named Oxford University Press word of year as outrage fuels social media traffic in 2025",
+        "description": "LONDON — Oxford University Press has named “rage bait’’ as its word of the year, capturing the internet zeitgeist of 2025",
+        "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/rage-bait-named-oxford-university-press-word-year-outrage-fuels-social-rcna246745",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-12/251201-phone-stock-mn-0901-2a75aa.jpg",
+        "publishedAt": "2025-12-01T14:21:25Z",
+        "content": "LONDON Oxford University Press has named rage bait as its word of the year, capturing the internet zeitgeist of 2025.\r\nThe phrase refers to online content that is deliberately designed to elicit ange… [+1441 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Francesca Chambers",
+        "title": "Trump says he'll look into reported second strike on suspected drug boat",
+        "description": "President Donald Trump said Defense Secretary Pete Hegseth denied ordering the military to leave no survivors in a strike on a suspected drug boat.",
+        "url": "https://www.usatoday.com/story/news/world/2025/12/01/trump-hegseth-drug-boat-strike/87547416007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87548093007-20251130-t-222850-z-1621486660-rc-297-iaomr-4-f-rtrmadp-3-usatrump.JPG?crop=2999,1688,x0,y156&width=2999&height=1688&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T14:18:24+00:00",
+        "content": "WASHINGTON President Donald Trump says he will look into whether the U.S. carried out a second strike against a boat in the Caribbean that the administration says was smuggling drugs, as he defended … [+2225 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "ICC president vows to resist U.S. and Russian pressure despite sanctions and threats",
+        "description": "The president of the International Criminal Court said during the institution’s annual meeting Monday that it will not bow to pressure from the United States and Russia",
+        "url": "https://www.nbcnews.com/world/russia/icc-president-vows-resist-us-russian-pressure-sanctions-threats-rcna246739",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250207-international-criminal-court-mn-0945-9af475.jpg",
+        "publishedAt": "2025-12-01T14:13:29Z",
+        "content": "The president of the International Criminal Court said during the institutions annual meeting Monday that it will not bow to pressure from the United States and Russia.\r\nNine staff members, including… [+2477 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": null,
+        "title": "Trump administration news: White House meeting on Venezuela, Ukraine talks and immigration crackdown",
+        "description": "President Donald Trump will hold a meeting at the White House this evening about next steps on Venezuela, sources told CNN, as his administration also seeks a peace deal in Ukraine. Follow for live updates.",
+        "url": "https://www.cnn.com/politics/live-news/trump-venezuela-ukraine-news-12-01-25?post-id&#x3D;cmin8jddg000o3b6nnt8ykk3t",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25332038588692.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T14:10:19Z",
+        "content": "President Donald Trump is expected to hold a meeting at the White House later today about next steps on Venezuela, according to sources familiar with the matter.\r\nCatch up below on where things stand… [+1775 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": null,
+        "title": "Trump administration news: US seeks a peace deal in Ukraine as tensions deepen with Venezuela",
+        "description": "President Donald Trump will hold a meeting at the White House this evening about next steps on Venezuela, sources told CNN, as his administration also seeks a peace deal in Ukraine. Follow for live updates.",
+        "url": "https://www.cnn.com/politics/live-news/trump-venezuela-ukraine-news-12-01-25",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap25332038588692.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T14:10:19Z",
+        "content": "The Trump administration had a busy weekend, with a focus on two major foreign conflicts.\r\nTop US and Ukrainian officials met in Florida yesterday amid a diplomatic push to end Russias war in Ukraine… [+2044 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "David Baratz",
+        "title": "See First Lady Melania Trump's 2025 White House Christmas decorations",
+        "description": "First Lady Melania Trump unveiled the White House Christmas decorations on Dec. 1, 2025",
+        "url": "https://www.usatoday.com/picture-gallery/news/politics/2025/12/01/white-house-melania-trump-2025-holiday-decorations-photos/87547542007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87548672007-white-house-christmas-decorations-2025-09.jpg?crop=8156,4590,x4,y707&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T14:09:40+00:00",
+        "content": "The White House Christmas tree is seen in the Blue Room during an advance tour of the 2025 White House Christmas decorations on Dec. 1, 2025 in Washington, DC.\r\nAnna Moneymaker, Getty Images\r\nThe Whi… [+4480 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Bart Jansen",
+        "title": "Melania Trump's White House Christmas decor includes Lego, 51 trees",
+        "description": "White House Christmas decorations include 51 trees, 75 wreaths with red bows and 10,000 butterflies under the theme 'Home is Where the Heart Is.'",
+        "url": "https://www.usatoday.com/story/news/politics/2025/12/01/melania-trump-white-house-christmas-decorations/87545403007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87548388007-gty-2249333834.jpg?crop=5191,2920,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T14:03:10+00:00",
+        "content": "WASHINGTON Christmas decorations at the White House, which were personally selected by first lady Melania Trump, aim to reflect the American spirit of generosity, patriotism and gratitude under the t… [+3564 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Melissa Ruggieri",
+        "title": "Chicago and Styx are going on tour together for the first time – Exclusive details",
+        "description": "Chicago and Styx will team for their first joint tour this summer. Here's where they'll play and how to get tickets.",
+        "url": "https://www.usatoday.com/story/entertainment/music/2025/12/01/styx-chicago-tour-2026-tickets/87466734007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/11/25/USAT/87466978007-chicago-publicity-hr-no-logo-2026.jpg?crop=5846,3289,x0,y53&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T14:00:48+00:00",
+        "content": "Styx's Tommy Shaw says he remembers getting goose pimples the first time he heard a Chicago record.\r\nI couldnt believe there was music that elaborate and soulful and it was still rock, the singer/gui… [+5063 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "DARLENE SUPERVILLE Associated Press",
+        "title": "Melania Trump reveals White House holiday decorations and her theme",
+        "description": "Melania Trump has decorated the White House for the holidays, and her theme is “Home Is Where the Heart Is.”",
+        "url": "https://abcnews.go.com/US/wireStory/melania-trump-reveals-white-house-holiday-decorations-theme-127998404",
+        "urlToImage": "https://i.abcnewsfe.com/a/c8077e58-649b-44f1-b2f3-bc67af695d5f/wirestory_378c18c3adbd2484149135b96f4e276b_16x9.jpg?w=1600",
+        "publishedAt": "2025-12-01T13:51:33Z",
+        "content": "WASHINGTON -- WASHINGTON (AP) Melania Trump on Monday unveiled the White House holiday decorations and her theme is Home Is Where the Heart Is, her first since she resumed the role of first lady. \r\nH… [+4340 chars]"
+    },
+    {
+        "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Aria Bendix",
+        "title": "WHO recommends GLP-1 drugs for obesity",
+        "description": "The World Health Organization on Monday recommended GLP-1 drugs as a tool to manage obesity in adults, marking a shift in the way the U.N. agency has historically framed obesity treatment.",
+        "url": "https://www.nbcnews.com/health/health-news/recommends-glp-1-drugs-obesity-rcna245919",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/241023-ozempic-vl-1233p-6ebfba.jpg",
+        "publishedAt": "2025-12-01T13:45:40Z",
+        "content": "The World Health Organization on Monday recommended GLP-1 drugs as a tool to manage obesity in adults, marking a shift in the way the U.N. agency has historically framed obesity treatment. \r\nThe WHO … [+2594 chars]"
+    },
+    {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Anna Kaufman",
+        "title": "Charlie Puth gets Super Bowl National Anthem gig",
+        "description": "The 2026 Super Bowl entertainment lineup will include heavy hitters from the pop and R&B genres, including Charlie Puth and Coco Jones.",
+        "url": "https://www.usatoday.com/story/entertainment/music/2025/12/01/super-bowl-performer-charlie-puth-coco-jones-brandi-carlile/87547611007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/12/01/USAT/87548007007-splitscreen.png?crop=1919,1079,x0,y0&width=1919&height=1079&format=pjpg&auto=webp",
+        "publishedAt": "2025-12-01T13:42:51+00:00",
+        "content": "The 2026 Super Bowl entertainment lineup is shaping up. \r\nThe NFL announced Nov. 30 that the pregame ceremony, home to three patriotic anthems, would feature performances from Brandi Carlile, Charlie… [+1758 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Natasha Bertrand, Alayna Treene",
+        "title": "Trump to hold Venezuela Oval Office meeting, sources say",
+        "description": "President Donald Trump will hold a meeting at the White House on Monday evening about next steps on Venezuela, sources familiar with the matter told CNN, as the administration intensifies its pressure campaign on the country.",
+        "url": "https://www.cnn.com/2025/12/01/politics/trump-venezuela-meeting",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2247836355-20251126153605878.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T13:36:23Z",
+        "content": "President Donald Trump will hold a meeting at the White House on Monday evening about next steps on Venezuela, sources familiar with the matter told CNN, as the administration intensifies its pressur… [+2714 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "'Rage bait’ named Oxford University Press word of year as outrage fuels social media",
+        "description": "Oxford University Press has named “rage bait’’ as its word of the year, capturing the internet zeitgeist of 2025",
+        "url": "https://abcnews.go.com/Lifestyle/wireStory/rage-bait-named-oxford-university-press-word-year-127993376",
+        "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+        "publishedAt": "2025-12-01T10:05:53Z",
+        "content": "LONDON -- Oxford University Press has named rage bait as its word of the year, capturing the internet zeitgeist of 2025.\r\nThe phrase refers to online content that is deliberately designed to elicit a… [+1444 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Sheena Vasani",
+        "title": "These great Cyber Monday tech deals will likely be gone tomorrow",
+        "description": "Cyber Monday’s officially here, bringing it with some of the best prices of the year on TVs, smart devices, headphones, streaming services, games, and more.",
+        "url": "https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258010_Black_friday_cyber_monday_CVirginia_BF7.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-12-01T09:40:58+00:00",
+        "content": "<ul><li></li><li></li><li></li></ul>\r\nSome deals have dropped to even lower prices than on Black Friday, so seize this opportunity to save.\r\nIf you buy something from a Verge link, Vox Media may earn… [+46954 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Margaret Dawson",
+        "title": "Maduro makes first public appearance in days after rumors he fled | CNN",
+        "description": "Venezuelan President Nicolás Maduro made his first public appearance in days on Sunday. He has not been seen since Wednesday, ending speculation he had fled the country.  CNN’s Stefano Pozzebon reports from Caracas, Venezuela.",
+        "url": "https://www.cnn.com/2025/11/30/world/video/maduro-resurfaces-rumors-digvid-vrtc",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/maduro-resurfaces-vrtc-20251201033218873.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-12-01T08:07:34.1133442Z",
+        "content": "Theres been a spate of record-breaking auction sales recently and experts at Christies in London think we might be about to see another. A legendary Fabergé Imperial Egg, commissioned by Russian empe… [+449 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Jack Moore, Bill Hutchinson",
+        "title": "3 children among 4 people killed in shooting at California banquet hall: Sheriff's office",
+        "description": "Authorities have not yet identified a suspect, an official said.",
+        "url": "https://abcnews.go.com/US/4-dead-10-wounded-after-shooting-california-banquet/story?id=127972958",
+        "urlToImage": "https://i.abcnewsfe.com/a/d6138296-fa91-47ae-9a61-60b2d48c8055/CaliforniaShooting_1764482538480_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2025-12-01T01:11:00Z",
+        "content": "At least four people, including three children, were killed and 11 others wounded in a mass shooting that erupted on Saturday evening at a child's birthday party at a banquet hall in Stockton, Califo… [+3061 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "The Associated Press",
+        "title": "Trump says he'll release MRI results but doesn't know what part of body was scanned",
+        "description": "President Donald Trump says he'll release the results of his MRI test that he received in October",
+        "url": "https://abcnews.go.com/Health/wireStory/trump-hell-release-mri-results-part-body-scanned-127987724",
+        "urlToImage": "https://i.abcnewsfe.com/a/6ede35ec-ae86-4d41-8243-fb149dd6737d/wirestory_0c66f2f9fca865d842ee94329a210a42_16x9.jpg?w=1600",
+        "publishedAt": "2025-11-30T23:33:48Z",
+        "content": "WASHINGTON -- President Donald Trump said he'll release the results of his MRI test that he received in October.\r\nIf you want to have it released, Ill release it, the Republican president said Sunday… [+709 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": null,
+        "title": "3 killed in catamaran accident on Florida river",
+        "description": null,
+        "url": "https://abcnews.go.com/US/3-killed-catamaran-accident-florida-river/story?id=127984850",
+        "urlToImage": null,
+        "publishedAt": "2025-11-30T21:37:03.7233901Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Nadine El-Bawab, Clara McMichael, Kyle Reiman, Bill Hutchinson",
+        "title": "Plane skids off icy runway as snow snarls post-Thanksgiving travel",
+        "description": "Chicago O'Hare International Airport was the most impacted airport.",
+        "url": "https://abcnews.go.com/US/1000-flights-canceled-nationwide-snowy-weather-hits-upper/story?id=127964896",
+        "urlToImage": "https://i.abcnewsfe.com/a/5584d0f8-da56-449e-a994-0dbbcdb48951/delta-connection-plane-hd-bh-251129_1764521494760_hpMain_16x9.jpeg?w=1600",
+        "publishedAt": "2025-11-30T21:33:00Z",
+        "content": "A cross-country storm dumping snow across Colorado and the Midwest has led to hundreds of canceled flights and car crashes, including a 45-vehicle pileup on one Indiana highway, amid the post-Thanksg… [+2903 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Natasha Bertrand",
+        "title": "US military carried out second strike killing survivors on a suspected drug boat that had already been attacked, sources say",
+        "description": "The US military carried out a follow-up strike on a suspected drug vessel operating in the Caribbean on September 2 after an initial attack did not kill everyone on board, sources familiar with the matter told CNN.",
+        "url": "https://www.cnn.com/2025/11/28/politics/us-military-second-strike-caribbean",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-21916724-1690-981-still.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-11-28T18:19:20Z",
+        "content": "The US military carried out a follow-up strike on a suspected drug vessel operating in the Caribbean on September 2 after an initial attack did not kill everyone on board, sources familiar with the m… [+7323 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Kevin Nguyen",
+        "title": "The ping pong movie is very stressful",
+        "description": "In Josh Safdie’s new film, Timothée Chalamet embodies a ping pong player that will stop at nothing to win.",
+        "url": "https://www.theverge.com/entertainment/828746/marty-supreme-movie-review",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/r3_1.1.1.jpg?quality=90&strip=all&crop=9.99072265625%2C0%2C80.0185546875%2C100&w=1200",
+        "publishedAt": "2025-11-25T16:31:21+00:00",
+        "content": "<ul><li></li><li></li></ul>\r\nThe ping pong movie is very stressful\r\nTense and often cruel, Marty Supreme might still be the Safdies gentlest movie to date.\r\nby\r\nKevin NguyenClose\r\nKevin Nguyen\r\nPosts… [+6427 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Dawn Handley",
+        "title": "CNN Headlines | CNN",
+        "description": "CNN Headlines is a curated channel covering major news events across politics, international, business, and entertainment, and showcasing the most impactful stories of the day.",
+        "url": "https://www.cnn.com/videos/fast/cnn-headlines",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/cnn-headlines-placeholder-1920x1080.png?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-06-30T20:25:47.801Z",
+        "content": "CNN Headlines is a curated channel covering major news events across politics, international, business, and entertainment, and showcasing the most impactful stories of the day."
+    }
+]

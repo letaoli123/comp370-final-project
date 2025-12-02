@@ -5787,6 +5787,7 @@
             "relevance_score": 84.16658
         }
     ]
+<<<<<<< HEAD
 }{
     "meta": {
         "found": 14729,
@@ -9655,4 +9656,6 @@
             "relevance_score": 81.109634
         }
     ]
+=======
+>>>>>>> 414f035 (modified script and collected 300 news articles)
 }

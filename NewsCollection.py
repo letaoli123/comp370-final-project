@@ -11,7 +11,7 @@ conn = http.client.HTTPSConnection('api.thenewsapi.com')
 
 outputFile = 'zohran_mamdani_news_articles.json'
 
-for page in range(153,170):
+for page in range(1,101):
     params = urllib.parse.urlencode({
         'api_token': News_API_Key,
         'search': 'Zohran Mamdani',
