@@ -14,6 +14,14 @@ from bs4 import BeautifulSoup
 import matplotlib.pyplot as plt
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
+from pathlib import Path
+
+ROOT_DIR = Path(__file__).parent.parent.parent
+DATA_DIR = ROOT_DIR / 'data'
+DATA_ANALYSIS_DIR = DATA_DIR / 'data_analysis'
+DATA_ANNOTATION_DIR = DATA_DIR / 'data_annotation'
+ANNOTATED_DATA_PATH = DATA_ANNOTATION_DIR / 'articles_by_topic.json'
+OUTPUT_PATH = DATA_ANALYSIS_DIR / 'tf_idf.png'
 
 # Common English stopwords
 STOPWORDS = set([
@@ -191,7 +199,7 @@ def main():
     print("Loading articles_by_topic.json...")
     
     # Load the JSON data
-    with open('data/articles_by_topic.json', 'r') as f:
+    with open(ANNOTATED_DATA_PATH, 'r') as f:
         data = json.load(f)
     
     print(f"Found {len(data)} topics")
@@ -235,7 +243,7 @@ def main():
     
     # Create visualization
     print("\nCreating visualization...")
-    visualize_tfidf(topic_top_words, 'tf_idf_visualization.png')
+    visualize_tfidf(topic_top_words, OUTPUT_PATH)
     
     print("\nDone!")
 

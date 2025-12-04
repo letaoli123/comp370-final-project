@@ -2920,5 +2920,89 @@
     "Topic": "Election Victory/Results",
     "Sentiment": "Positive",
     "Rationale": "Celebratory and motivational framing."
+  },
+  {
+    "URL": "Charlamagne says chummy Trump-Mamdani meeting shows all fascist, communist accusations are 'political theater'",
+    "Topic": "Controversies/Personal Attacks",
+    "Sentiment": "Negative",
+    "Rationale": "Negative framing of Trump-Mamdani meeting."
+  },
+  {
+    "URL": "Jesse Watters: Chemistry between Trump and Mamdani was 'undeniable'",
+    "Topic": "Trump Conflicts",
+    "Sentiment": "Neutral",
+    "Rationale": "Statement of Trump and Mamdani's meeting"
+  },
+  {
+    "URL": "Here’s why Trump believes he has upper hand over Zohran Mamdani after surprise lovefest in Oval Office",
+    "Topic": "Trump Conflicts",
+    "Sentiment": "Negative",
+    "Rationale": "In favor of trump and against mamdani."
+  },
+  {
+    "URL": "The analyst who once predicted the ‘end of capitalism’ sees Zohran Mamdani’s election as a ‘day of reckoning coming in’—and corporates only have themselves to blame",
+    "Topic": "Election Victory/Results",
+    "Sentiment": "Positive",
+    "Rationale": "Celebratory and motivational framing."
+  },
+  {
+    "URL": "Mamdani Doubles Down, Calling Trump A 'Fascist' Days After Surprisingly Warm Meeting",
+    "Topic": "Trump Conflicts",
+    "Sentiment": "Neutral",
+    "Rationale": "Statement of Mamdani's commentary on trump"
+  },
+  {
+    "URL": "NYC’s Adams Pushes Rent Board Changes Before Mamdani Freeze Bid",
+    "Topic": "Policy Positions",
+    "Sentiment": "Neutral",
+    "Rationale": "Statement of policy positions"
+  },
+  {
+    "URL": "‘Roads of Fire’ Director Nathaniel Lezra on His Migrant Crisis Doc and Why Zohran Mamdani Is ‘Representative of Our Hopes’",
+    "Topic": "Campaign/Endorsements",
+    "Sentiment": "Positive",
+    "Rationale": "Positive endorsement from a known figure"
+  },
+  {
+    "URL": "Wu not interested in ‘bromance’ with Trump, she says after Mamdani’s White House trip",
+    "Topic": "Trump Conflicts",
+    "Sentiment": "Neutral",
+    "Rationale": "Statement of Wu's commentary on Trump-Mamdani meeting."
+  },
+  {
+    "URL": "Treasury Secretary Scott Bessent calls Mamdani the leader of the Democratic Party",
+    "Topic": "Campaign/Endorsements",
+    "Sentiment": "Positive",
+    "Rationale": "Positive endorsement from a known figure"
+  },
+  {
+    "URL": "FDNY commissioner reflects on plans to resign following Mamdani's mayoral victory",
+    "Topic": "Election Victory/Results",
+    "Sentiment": "Neutral",
+    "Rationale": "Neutral delivery of an official resigning"
+  },
+  {
+    "URL": "‘Natural Enemy’: Mamdani Names Radical Cop-Hating Professor To ‘Community Safety’ Post",
+    "Topic": "Controversies/Personal Attacks",
+    "Sentiment": "Negative",
+    "Rationale": "Negative framing of Mamdani's appointment"
+  },
+  {
+    "URL": "Seth Meyers Makes A Cool Case For Why Trump Is So 'Smitten' With Mamdani",
+    "Topic": "Trump Conflicts",
+    "Sentiment": "Neutral",
+    "Rationale": "Neutral delivery of a known figure's commentary on Trump-Mamdani meeting."
+  },
+  {
+    "URL": "‘Mamdani the Hater’ Slanders Jews and Judaism",
+    "Topic": "Israel/Palestine/Antisemitism",
+    "Sentiment": "Negative",
+    "Rationale": "Negative attack towards Madani potentially calling for antisemitism"
+  },
+  {
+    "URL": "Trump Embraces Mamdani Socialism as 'Practical'",
+    "Topic": "Trump Conflicts",
+    "Sentiment": "Neutral",
+    "Rationale": "Neutral delivery of a known figure's commentary on Trump-Mamdani meeting."
   }
 ]
