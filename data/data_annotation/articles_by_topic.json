@@ -1,0 +1,2940 @@
+{
+    "Israel/Palestine/Antisemitism": [
+        {
+            "URL": "https://nvpost.com/2025/10/17/media/rep-elise-stefanik-calls-zohran-mamdani-definition-of-a-jihadist/",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Republican Rep calling Mamdani \"definition of a jihadist\""
+        },
+        {
+            "URL": "https://www.jpost.com/opinion/article-867612",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Opinion piece arguing \"Mamdani must be stopped,\" calling him \"institutionalization of antisemitism\""
+        },
+        {
+            "URL": "Elise Stefanik calls Mamdani \"definition of jihadist\" (NYPost)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Extreme Republican attack"
+        },
+        {
+            "URL": "Urged boycott of Israel when entered Assembly (NYPost)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative outlet highlighting BDS support"
+        },
+        {
+            "URL": "https://www.jpost.com/diaspora/article-872118",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Jerusalem Post critical coverage"
+        },
+        {
+            "URL": "https://www.jpost.com/diaspora/article-872173",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Jerusalem Post diaspora coverage"
+        },
+        {
+            "URL": "Israel National News coverage",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Israeli right-wing outlet"
+        },
+        {
+            "URL": "https://www.jpost.com/diaspora/antisemitism/article-872881",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Antisemitism framing"
+        },
+        {
+            "URL": "Shared sick video mocking Hanukkah (NYPost)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative attack over religious content"
+        },
+        {
+            "URL": "Multiple JPost opinion pieces",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Pattern of Israeli media opposition"
+        },
+        {
+            "URL": "Multiple JPost articles",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Continued Israeli media opposition"
+        },
+        {
+            "URL": "Why Iran-backed Houthis but not US-backed IDF (NDTV)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Questioning foreign policy consistency"
+        },
+        {
+            "URL": "Multiple JPost articles",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Israeli outlet opposition"
+        },
+        {
+            "URL": "Wants to end NYC investments in Israel bonds (LiveMint)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative (from pro-Israel perspective)",
+            "Rationale": "BDS-related policy"
+        },
+        {
+            "URL": "Socialist chased out of park by protester shouting \"antisemite\" (NYPost)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Confrontation coverage"
+        },
+        {
+            "URL": "Multiple JPost articles",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Israeli media opposition"
+        },
+        {
+            "URL": "Israel National News coverage",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Right-wing Israeli outlet"
+        },
+        {
+            "URL": "Israel National News",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Israeli right-wing opposition"
+        },
+        {
+            "URL": "Israel National News \u2013 (Critical far-right outlet)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "All INN coverage frames him as anti-Israel."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cCalled Hamas sympathizer in Islamophobic attack\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Article highlights accusations + Islamophobic rhetoric."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cJewish FDNY commissioner resigns after anti-Israel Mamdani elected\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Strongly negative framing."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMash Alinejad challenges Mamdani over Hamas stance\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as extremist."
+        },
+        {
+            "URL": "Jerusalem Post \u2013 Opinion piece",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "JPost openly anti-Mamdani."
+        },
+        {
+            "URL": "Israel National News \u2013 anti-Mamdani coverage",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Repeatedly portrays him as anti-Israel."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cJewish advocacy group slams Mamdani for mocking Hanukkah video\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights condemnation from Jewish organizations."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cRefuses to sign resolutions condemning Holocaust\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as extreme and insensitive."
+        },
+        {
+            "URL": "RedState \u2013 \u201cNow he refuses to denounce Hamas\u2026\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Strong ideological condemnation."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cShapiro bashes Mamdani for failure to condemn antisemitic extremists\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Accusations of extremism."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cScarborough arranging meeting with ADL\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Implies he must repair antisemitism damage."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMamdani ally Linda Sarsour + DSA go after pro-Israel Democrats\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as aligned with controversial activists."
+        },
+        {
+            "URL": "Israel National News \u2013 (Anti-Mamdani framing)",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Consistent ideological critique."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMade vile conspiracy-tinged statement tying NYPD to IDF\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as extremist."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cDoubling down on Israel bashing\u2014Mamdani at his most sincere\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Extremely hostile framing."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cWould credit Trump for Gaza ceasefire\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Neutral",
+            "Rationale": "Unusual framing, not critical."
+        },
+        {
+            "URL": "Livemint \u2013 \u201cSocialist critic of Israel wins nomination\u2014dividing Jewish voters\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Mixed",
+            "Rationale": "Analytical tone about polarization."
+        },
+        {
+            "URL": "Jerusalem Post \u2013 \u201cAmerican politics\u201d section",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames Mamdani as hostile to Israel."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cUrges boycott of Cornell school with ties to Israel\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames Mamdani as anti-Israel agitator."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cWhat is the BDS movement Mamdani supports?\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Neutral",
+            "Rationale": "Explanatory but politically charged."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cUrged Ben & Jerry to boycott Israeli settlements\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as anti-Israel activist."
+        },
+        {
+            "URL": "PJMedia \u2013 \u201cGoes to pro-Hamas mosque\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as extremist."
+        },
+        {
+            "URL": "NYPost \u2013 \u201c9/11 family blasts Mamdani for associating with terror sympathizer\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Highly charged accusations."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cStill won\u2019t answer if Israel has right to exist\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as evasive/extreme."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cTlaib rallies comrades to back socialist candidate\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Post frames Tlaib + DSA as radicals."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cHow pro-Palestinian Mamdani became mayor of JewYork\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Mixed",
+            "Rationale": "Provocative framing but analytical."
+        },
+        {
+            "URL": "Israel National News \u2013 anti-Mamdani story",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Consistent ideological opposition."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cJeffries demands Mamdani clarify his defense of \u2018intifada\u2019 chant\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as aligned with extremist rhetoric."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian-origin mayor faces backlash for BDS support\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Focus on backlash over pro-Palestinian stance."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cDodges questions about supporting DSA\u2019s anti-Israel rally\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Implies evasiveness over extremist views."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cExplainer: Why is Mamdani controversial in Jewish communities?\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Neutral-negative",
+            "Rationale": "Analytical but detailing controversies."
+        },
+        {
+            "URL": "RedState \u2013 \u201cAnother Hamas-defender elected in America\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Extreme framing linking him to terrorism."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cBlasted for attending dinner with pro-Palestine activists\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Guilt by association framing."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMamdani\u2019s advisers already clashing over Israel policy\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes disorganization and extremism."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMakes emotional plea for Gaza ceasefire\u2014critics call it propaganda\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Post emphasizes criticism, not plea."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cRips Israel\u2019s actions as \u2018systemic oppression\u2019\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Claims he is extremist on Israel."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSchool principal calls Mamdani danger to Jewish students\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Strong accusation."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cMamdani refuses to apologize for Israel comments\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Focuses on refusal + continuing controversy."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cInternet divided over Mamdani\u2019s stance on Zionism\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Mixed",
+            "Rationale": "Highlights polarization, not condemnation."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWon\u2019t say whether he supports Hamas\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Loaded framing implying extremism."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian-American Jews concerned by Mamdani\u2019s rise\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Focus on community fear."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cIndian MP reacts to Mamdani\u2019s Israel stance\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Focus on political disapproval."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cCaught on camera insulting Jewish protesters\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as hostile."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cSlammed for saying US should cut military aid to Israel\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights criticism of his stance."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cMamdani responds to Israeli diplomat\u2019s criticism\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Neutral",
+            "Rationale": "Balanced back-and-forth."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cPro-Palestine protesters chant with Mamdani during rally\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Guilt-by-association framing."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWould not condemn anti-Israel graffiti\u201d",
+            "Topic": "Israel/Palestine/Antisemitism",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as aligned with extremists."
+        }
+    ],
+    "Election Victory/Results": [
+        {
+            "URL": "https://www.newser.com/story/378100/zohran-mamdani-wins-nyc-mayors-race.html",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Straightforward reporting of election win, mentions Trump opposition but balanced"
+        },
+        {
+            "URL": "https://redstate.com/sister-toldjah/2025/11/04/results-from-nyc-mayoral-race-n2195833",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Headline \"NYC Falls to Communism,\" describes election as disaster, pro-Hamas framing"
+        },
+        {
+            "URL": "https://nypost.com/2025/09/12/us-news/trump-predicts-zohran-mamdani-will-win-nyc-mayoral-race/",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral--slightly negative",
+            "Rationale": "While Trump predicts Mamdani will win, the tone is sarcastic and skeptical, characteristic of NY Post; coverage frames him as extreme."
+        },
+        {
+            "URL": "https://www.cbsnews.com/video/zohran-mamdani-wins-new-york-city-mayoral-race-cbs-news-projects/",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive--neutral",
+            "Rationale": "Straightforward coverage of his projected win; tone is professional and factual, slightly positive because it highlights his achievement."
+        },
+        {
+            "URL": "https://www.nytimes.com/video/us/elections/100000010504614/nyc-mayor-mamdani-elected.html",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral-positive",
+            "Rationale": "NYT provides balanced reporting on his election, with polished, institutional tone; not hostile."
+        },
+        {
+            "URL": "https://www.cbsnews.com/video/watch-zohran-mamdani-gives-victory-speech-after-projected-win-in-new-york-city-mayoral-race/",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Shows his victory speech; CBS tone is factual but celebratory."
+        },
+        {
+            "URL": "How to apply for NYC mayor's office jobs (EconomicTimes)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Practical information about hiring"
+        },
+        {
+            "URL": "Wins Democratic mayoral primary (TheHindu)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Straightforward victory announcement"
+        },
+        {
+            "URL": "https://redstate.com/sister-toldjah/2025/11/04/results-from-nyc-mayoral-race-n2195833",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "\"NYC Falls to Communism\" headline"
+        },
+        {
+            "URL": "https://www.newser.com/story/378100/zohran-mamdani-wins-nyc-mayors-race.html",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Straight news reporting"
+        },
+        {
+            "URL": "\"Supposed great victory stinks to high heaven\" (RedState)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Questioning legitimacy of win"
+        },
+        {
+            "URL": "What lies ahead - duties and challenges (LiveMint)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Forward-looking analysis"
+        },
+        {
+            "URL": "Democrat wins NYC mayor's race (TheHindu)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Victory announcement"
+        },
+        {
+            "URL": "Democrat wins mayoral race (EconomicTimes)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Victory announcement"
+        },
+        {
+            "URL": "Democratic socialist elected NYC mayor (LiveMint)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic win announcement"
+        },
+        {
+            "URL": "Victory speech quotes Nehru (TheHindu)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic speech moment"
+        },
+        {
+            "URL": "Chai, momos, early interviews - 1st day as mayor-elect (Tol)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Humanizing post-victory coverage"
+        },
+        {
+            "URL": "\"Feels like Titanic\" - overwhelming lead (RedState)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative despair over lead"
+        },
+        {
+            "URL": "Confirmed as Democratic candidate (NDTV)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Official nomination"
+        },
+        {
+            "URL": "https://www.thedailystar.net/news/world/usa/news/long-shot-socialist-and-trump-foe-mamdani-becomes-next-ny-mayor-4027486",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "\"Long shot\" who succeeded"
+        },
+        {
+            "URL": "Quotes Nehru's \"Tryst with Destiny\" (EconomicTimes)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic speech moment"
+        },
+        {
+            "URL": "https://www.cbsnews.com/video/zohran-mamdani-wins-new-york-city-mayoral-race-cbs-news-projects/",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Network news projection"
+        },
+        {
+            "URL": "Last defense against Mamdani collapsing (RedState)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative despair"
+        },
+        {
+            "URL": "Wins NYC Democratic primary defeating Cuomo (HinduBusinessLine)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Primary victory"
+        },
+        {
+            "URL": "NYTimes video - NYC mayor Mamdani elected",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "News of record"
+        },
+        {
+            "URL": "France24 - NYC's first Muslim mayor",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic milestone"
+        },
+        {
+            "URL": "How Mamdani rose above religion factor (Tol)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Overcoming barriers narrative"
+        },
+        {
+            "URL": "Victory speech after projected win (CBS video)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic moment"
+        },
+        {
+            "URL": "Becomes first Muslim mayor of NYC (EconomicTimes video)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic achievement"
+        },
+        {
+            "URL": "How Mamdani says he won (NYTimes video)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Campaign strategy analysis"
+        },
+        {
+            "URL": "Dominates NYC mayor race with 20-point edge (EconomicTimes)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Poll lead"
+        },
+        {
+            "URL": "Democrat wins primary with progressive ideas (ToI)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Victory analysis"
+        },
+        {
+            "URL": "Young leftist on track to win, shaking up politics (TheHindu)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Transformative narrative"
+        },
+        {
+            "URL": "Democratic socialist wins mayoral race (Catholic News Agency)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Straightforward religious outlet coverage"
+        },
+        {
+            "URL": "\"We made history\" declares victory in primary (LiveMint)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Victory celebration"
+        },
+        {
+            "URL": "Becomes first Indian-American Muslim mayor (NDTV Profit)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic milestone"
+        },
+        {
+            "URL": "On track to become first Muslim mayor (MalayMail)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "International coverage of historic win"
+        },
+        {
+            "URL": "May tap ex-homeless services chief as top lawyer (NYPost)",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Transition planning"
+        },
+        {
+            "URL": "Catholic News Agency \u2013 \u201cDemocratic Socialist Zohran Mamdani wins NYC mayoral race\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral \u2192 slightly negative",
+            "Rationale": "Headline is factual but \u201cDemocratic Socialist\u201d is used as an ideological label typical of CNA\u2019s conservative tone."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cWe made history\u2026 declares victory in NYC Democratic primary\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory framing (\u201cwe made history\u201d)."
+        },
+        {
+            "URL": "NDTV Profit \u2013 \u201cBecomes first Indian-American Muslim mayor of New York\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Historic framing and pride-language tone."
+        },
+        {
+            "URL": "MalayMail \u2013 \u201cOn track to become NYC\u2019s first Muslim mayor\u2026\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Focuses on milestone."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIt\u2019s done: wins NYC mayoral primary\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory tone."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cInvokes Nehru in victory speech\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Inspirational framing."
+        },
+        {
+            "URL": "The Hindu \u2013 \u201cCuomo concedes to Mamdani\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Straight reporting of win."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWon most votes in primary history\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative-neutral",
+            "Rationale": "Factual but NYPost adds negative spin in article body."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSticks to socialist guns in fire-breathing victory speech\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Loaded language (\u201cfire-breathing\u201d)."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cRathee posts: Mamdani\u2019s win proves elections can be won without billionaire money\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Emphasizes grassroots success."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cWhen will Mamdani take charge? Key challenges\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Analytical and informative."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cEnds victory speech with \u2018Dhoom Machale\u2019 Bollywood track\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory/cultural pride."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cQuotes Nehru in emotional post-election address\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Emotional/historic framing."
+        },
+        {
+            "URL": "India Today \u2013 \u201cIndian-origin Mamdani set to win after Cuomo concedes\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory tone + ethnic pride."
+        },
+        {
+            "URL": "India Today \u2013 \u201cDeclares victory\u2026 invokes Mandela\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Inspirational framing."
+        },
+        {
+            "URL": "Global News \u2013 \u201cCuomo\u2013Mamdani NYC mayoral primary coverage\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Neutral",
+            "Rationale": "Straight reporting."
+        },
+        {
+            "URL": "CBS News \u2013 \u201cOfficially wins\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Straightforward coverage."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cGreg Abbott threatens tariff on people fleeing NYC if Mamdani wins\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Implies catastrophic consequences."
+        },
+        {
+            "URL": "India Today \u2013 \u201cVictory speech with Dhoom Machale + family\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Joyful cultural depiction."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cPrimary delivers worst possible outcome with Mamdani\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Overt condemnation."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cTracking the rise of Mamdani\u2014how socialist outsider became mayor\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Structural analysis with admiration."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cKeep Mamdani completely off your ballot\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Negative",
+            "Rationale": "Op-ed urging voters to reject him."
+        },
+        {
+            "URL": "ABC Australia \u2013 \u201cWhy Mamdani\u2019s success is about more than social media\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Serious analytical tone praising strategy."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cIndian-origin Mamdani set to win as Cuomo concedes defeat\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory."
+        },
+        {
+            "URL": "India Today \u2013 \u201cIndians celebrate historic mayoral win\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Emphasizes pride and excitement."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cDaughter of Indian filmmaker wins NYC mayor\u2019s race\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebrates family lineage."
+        },
+        {
+            "URL": "India Today \u2013 \u201cNew York\u2019s first Muslim mayor thanks supporters\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Warm, celebratory article."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cWhat Mamdani\u2019s win means for future of socialist politics in US\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Sympathetic analytical tone."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian-Americans celebrate Mamdani\u2019s progressive message\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Welcoming coverage."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cIndian celebrities congratulate Mamdani\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebrities offering praise."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian Muslims celebrate Mamdani\u2019s win as historic\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory community reaction."
+        },
+        {
+            "URL": "India Today \u2013 \u201cThe rise of the desi socialist in US politics\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Analytical and admiring."
+        },
+        {
+            "URL": "The Hindu \u2013 \u201cHistoric win for NYC\u2019s first Muslim mayor\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory framing."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cExplained: Why Mamdani is inspiring young progressives\u201d",
+            "Topic": "Election Victory/Results",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory and motivational framing."
+        }
+    ],
+    "Controversies/Personal Attacks": [
+        {
+            "URL": "https://pimedia.com/matt-margolis/2025/08/09/rich-socialist-zohran-mamdani-has-a-rent-controlled-apartment-n4942551",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative outlet attacking Mamdani as hypocrite for having rent-controlled apartment"
+        },
+        {
+            "URL": "https://nypost.com/2025/10/11/us-news/socialist-mayoral-candidate-zohran-mamdani-chased-out-of-nyc-park-by-protester-shouting-antisemite/",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes conflict, portraying Mamdani as being chased off and accused of antisemitism."
+        },
+        {
+            "URL": "https://nypost.com/2025/07/24/us-news/new-york-city-mayor-hopeful-mamdani-nicknamed-zohran-the-moron-by-michael-rapaport/",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights derogatory nickname; negative framing based on personal insult."
+        },
+        {
+            "URL": "https://nypost.com/2025/10/22/us-news/andrew-cuomo-slams-zohran-mamdani-during-nyc-mayoral-debate-says-trump-will-knock-him-on-his-tuckus/",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights Cuomo attacking him harshly; depicts him as weak or vulnerable."
+        },
+        {
+            "URL": "9/11 aunt clarification (Tol)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Questioning inconsistencies in 9/11 story"
+        },
+        {
+            "URL": "Struggles to lift barbell viral video (IndiaToday)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Mocking physical fitness moment"
+        },
+        {
+            "URL": "Rich socialist has rent-controlled apartment (PJMedia)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative hypocrisy attack"
+        },
+        {
+            "URL": "Video saying \"never identify as Black\" viral (ToI)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Identity controversy"
+        },
+        {
+            "URL": "\"Nepo baby\" staying at Mira Nair's $2M condo (Tol)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Privilege attack"
+        },
+        {
+            "URL": "\"After latest revelations NYC is cooked\" (RedState)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative doom prediction"
+        },
+        {
+            "URL": "How described himself in Columbia application (NDTV x2)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Racial identity controversy"
+        },
+        {
+            "URL": "Cuomo camp says claiming Black \"tip of iceberg\" (Tol)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Opposition research attacks"
+        },
+        {
+            "URL": "If Usha Vance were Muslim (Tol)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Neutral",
+            "Rationale": "Hypothetical comparison"
+        },
+        {
+            "URL": "Marked Asian and African American on college application (IndiaToday)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Identity controversy"
+        },
+        {
+            "URL": "\"I don't eat with hands\" - US leader's wife after racist dig (LiveMint)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Racist attack on eating customs"
+        },
+        {
+            "URL": "Investigate if he concealed - Rep Ogles to DOJ (ToI)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Republican investigation demands"
+        },
+        {
+            "URL": "Eating with hands viral video - \"go back to third world\" (IndiaToday)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Racist attacks"
+        },
+        {
+            "URL": "Indian diaspora in Africa identifies as African (Tol)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Neutral",
+            "Rationale": "Identity discussion"
+        },
+        {
+            "URL": "Nicknamed \"Zohran the Moron\" by Michael Rapaport (NYPost)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Celebrity mockery"
+        },
+        {
+            "URL": "Even Vivek, Tulsi didn't - trolled for Rakhi wish (Tol)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Cultural appropriation accusations"
+        },
+        {
+            "URL": "Claimed didn't know anti-gay Ugandan bigwig (NYPost)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Uganda wedding controversy"
+        },
+        {
+            "URL": "NYC mayoral run hit by criminal referrals (LiveMint)",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Foreign donation allegations"
+        },
+        {
+            "URL": "NYPost \u2013 \u201cRabins\u2019 criticism leads to insults from Keith McNally\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Focuses on conflict + insults."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cNY Republicans tie opponents to Mamdani\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Uses him as liability."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cBack from Uganda\u2026 dodges questions about slain NYPD cop\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as evasive and disrespectful."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cTrashed Obama as \u2018pretty damn evil\u2019 in unearthed tweets\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Damage framing."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cMehdi Hasan trolls Elon Musk over Mamdani remark\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Mixed",
+            "Rationale": "Defensive of Mamdani, mocking Musk."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cCuomo bashes \u2018rich person\u2019 Mamdani over hogging $2300 from homeless New Yorkers\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as hypocritical/privileged."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cJD Vance slams Mamdani over 9/11 comment about auntie\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Strongly hostile framing."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cJumps up and down in Pride March; internet slams him\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Focuses on backlash."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cCuomo laughs as host says Mamdani would cheer another 9/11\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Article highlights Islamophobic remarks."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cRiley Gaines mocks Mamdani\u2019s failed bench press\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Public ridicule."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cHow rise of Mamdani is dividing Democrats\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Mixed",
+            "Rationale": "Highlights internal party tension, not purely negative."
+        },
+        {
+            "URL": "Yahoo \u2013 \u201cFox\u2019s Lawrence Jones proclaims Mamdani\u2026\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative host criticizing him."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cBarely ever held a job; no experience in government\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as unqualified and unserious."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSlams Mamdani for blowing off NYPD funerals\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Portrays him as disrespectful to police."
+        },
+        {
+            "URL": "France24 \u2013 \u201cFact-checking false Republican claims about Mamdani\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Positive toward Mamdani",
+            "Rationale": "Debunks misinformation targeting him."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cTexts reveal chats with unpopular far-left mayor Brandon Johnson\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Guilt-by-association framing."
+        },
+        {
+            "URL": "NDTV \u2013 \u201c50 Cent: Where did he come from? On Mamdani\u2019s tax plans\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Neutral-negative",
+            "Rationale": "Celebrity criticism."
+        },
+        {
+            "URL": "KOAT \u2013 \u201cTexas man threatens Mamdani\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Violent threats."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMentions Cuomo in same breath as Jeffrey Epstein\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Portrays him as inflammatory."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cTake it down: Mamdani draws flak as old Columbus post resurfaces\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights backlash from Italian-American groups."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cUganda responds to hate post against Mamdani\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Defends him against xenophobic attacks."
+        },
+        {
+            "URL": "India Today \u2013 \u201cOld viral post comparing Kerala mayor resurfaces\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Neutral-negative",
+            "Rationale": "Focus on revived criticism."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cGiuliani offers brutal 6-word advice\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Giuliani mocks him."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cAsian-American community rallies behind Adams against Mamdani: don\u2019t support socialists\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights demographic backlash."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cNYC billionaire Catsimatidis rages over Mamdani win\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Elite backlash."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cWhy can\u2019t they use cutlery? Eating-with-hands video goes viral\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Mixed",
+            "Rationale": "Cultural debate but mocking undertone."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cTrillionaire Musk, Trump, Mamdani: What\u2019s going on?\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Neutral",
+            "Rationale": "General political analysis."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cTexas man charged with death threats against Mamdani\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative toward attackers; neutral toward Mamdani",
+            "Rationale": "Violent threat."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cAdams recalls dinner with Mamdani\u2026 assails his wealth\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Elite criticism + class attack."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cAdams rips Mamdani as snake-oil salesman\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Direct insulting language."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cCrowd boos Mamdani: \u2018Go back to where you came from\u2019\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative (toward attackers)",
+            "Rationale": "Islamophobic harassment."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cRich and famous panicking about Mamdani\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes elite fear/panic."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cMuslim mayor comparison video resurfaces\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Neutral-negative",
+            "Rationale": "Focuses on resurfaced viral comparison and public criticism."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cDefends hands-eating with humorous post\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Positive",
+            "Rationale": "Light-hearted defense."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cTakes credit for movement he had little role in\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as dishonest/self-aggrandizing."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSketchy fundraising groups tied to Mamdani\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Corruption implication."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cEmbarrassing debate moment goes viral\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Highlighting gaffe."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cClowned on social media after awkward video\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Mocking tone."
+        },
+        {
+            "URL": "India Today \u2013 \u201cMamdani-Yemen comment sparks fresh firestorm\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Focus on backlash."
+        },
+        {
+            "URL": "RedState \u2013 \u201cMamdani-Al Sharpton alliance bad news for NY\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Painting alliances as harmful."
+        },
+        {
+            "URL": "India.com \u2013 \u201cAccused of hypocrisy over luxury apartment\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Suggests inconsistency with socialist messaging."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cPast employment records don\u2019t match r\u00e9sum\u00e9 claims\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Implies dishonesty."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSpotted maskless at indoor rally\u2014hypocrisy charge\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Implies double standards."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cCuomo hints Mamdani is foreign puppet\u201d",
+            "Topic": "Controversies/Personal Attacks",
+            "Sentiment": "Negative",
+            "Rationale": "Xenophobic insinuation."
+        }
+    ],
+    "Campaign/Endorsements": [
+        {
+            "URL": "https://www.forbes.com/sites/alexandrabregman/2025/07/31/does-young-cardamom-help-zohran-mamdani/",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Analysis piece about campaign strategy and appeal"
+        },
+        {
+            "URL": "https://www.cbsnews.com/video/how-zohran-mamdani-struck-chord-new-york-city-voters/",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Focuses on why voters resonated with him; CBS framing is constructive and explanatory."
+        },
+        {
+            "URL": "What makes Mamdani appealing to voters (NDTV)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Analyzing appeal and popularity"
+        },
+        {
+            "URL": "Bernie Sanders, Muslim members call out racist attacks (ToI)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Progressive support defending Mamdani"
+        },
+        {
+            "URL": "Bollywood references in campaign videos (IndiaToday)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Creative campaign strategy"
+        },
+        {
+            "URL": "Bernie Sanders endorses (RedState)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative outlet criticizing progressive endorsement"
+        },
+        {
+            "URL": "Receives Hakeem Jeffries endorsement (LiveMint)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Major Democratic endorsement"
+        },
+        {
+            "URL": "TikTok algorithm tipping scale (RedState)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Conspiracy theory about social media"
+        },
+        {
+            "URL": "Millionaires supporting socialist (Tol)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Analysis of donor base"
+        },
+        {
+            "URL": "Is Obama supporting Mamdani - 30 min call (Tol)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "High-profile support"
+        },
+        {
+            "URL": "Kathy Hochul endorses but he refuses to return favor (RedState)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative criticism of rebuff"
+        },
+        {
+            "URL": "Bill Ackman sparks outrage congratulating Mamdani (EconomicTimes)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Controversy over billionaire congratulations"
+        },
+        {
+            "URL": "PACs supporting raised cash from lefty establishment (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative framing of donors"
+        },
+        {
+            "URL": "AOC endorses fellow democratic socialist (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative (from outlet perspective)",
+            "Rationale": "Conservative outlet reporting progressive endorsement"
+        },
+        {
+            "URL": "To skip unofficial debates (IndiaToday)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Campaign strategy"
+        },
+        {
+            "URL": "CAIR funded campaign - Linda Sarsour claims (IndiaToday)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Controversial funding allegations"
+        },
+        {
+            "URL": "Bill de Blasio votes wearing \"Hot Girls for Zohran\" shirt (Tol)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Viral endorsement moment"
+        },
+        {
+            "URL": "\"Tumne kabhi vote diya\" campaign video (NDTV)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Creative Bollywood-style campaign"
+        },
+        {
+            "URL": "France24 - On campaign trail with Mamdani",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "International documentary coverage"
+        },
+        {
+            "URL": "Eric Adams hailed for quitting, blow to Mamdani (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative hoping Adams exit hurts Mamdani"
+        },
+        {
+            "URL": "Obama's call to Mamdani revealed (LiveMint)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "High-level Democratic support"
+        },
+        {
+            "URL": "How Mamdani struck chord with NYC voters (CBS video)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Analytical success story"
+        },
+        {
+            "URL": "Who is Mamdani - endorsed by AOC (LiveMint)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Profile with progressive support"
+        },
+        {
+            "URL": "Cuomo slams during debate, says Trump will knock him (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Opponent attacks"
+        },
+        {
+            "URL": "NY Knicks issue cease and desist over logo (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Campaign misstep"
+        },
+        {
+            "URL": "Rashida Tlaib fundraises for Mamdani (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative (from outlet)",
+            "Rationale": "Conservative framing of progressive support"
+        },
+        {
+            "URL": "Nabs key endorsement despite Israel disagreement (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Pragmatic coalition-building"
+        },
+        {
+            "URL": "Manhattan Democratic Party endorses (NYPost)",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Party support"
+        },
+        {
+            "URL": "NYPost \u2013 \u201cNabs key endorsement despite big disagreement on Israel\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Hostile framing (\u201cdespite disagreement\u201d)."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cManhattan Democratic Party endorses Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as controversial in Post tone."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cCuomo will remain in mayor\u2019s race\u2026 Mamdani says he doesn\u2019t care\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Straight campaign news."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cJeffries endorses Mamdani\u2014shift in political dynamics?\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "More analytical than hostile."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cDe Blasio endorses Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "NYPost frames endorsement unfavorably."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cCuomo closing in as race tightens\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Undercuts Mamdani\u2019s momentum."
+        },
+        {
+            "URL": "CBS News \u2013 \u201cTom Suozzi explains why not backing Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Explains lack of support."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cHakeem Jeffries endorses Mamdani for NYC mayor\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "NYPost tone frames endorsement as controversial or misguided."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSpews word salad excuse after Obama endorsement snub\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Mocking tone toward Mamdani\u2019s explanation."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cFacing key Dems at DC breakfast hosted by AOC after political earthquake\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as extremist within party."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cGhosted by Bronx Borough President after announcing endorsement\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as rejected/humiliated."
+        },
+        {
+            "URL": "PJ Media \u2013 \u201cJeffries backing away from endorsement\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Frame: he is toxic to fellow Democrats."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cHochul defends Mamdani as reasonable\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative-neutral",
+            "Rationale": "NYPost still skeptical though reporting defense."
+        },
+        {
+            "URL": "CBS News \u2013 \u201cWABC-TV appearance, Jimmy Kimmel\u2026\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Normal coverage."
+        },
+        {
+            "URL": "Yahoo \u2013 \u201cTells 1M followers\u2026\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Social media reporting."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMike Lawler plugs Cuomo over Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Frames Mamdani as an inferior choice."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cAdams economic honcho seeks to keep post under Mamdani admin\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Straight reporting."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cRamps up suburbanite donations but still trails rivals\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes weakness."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cMeet Andrew Epstein\u2014the strategist behind Mamdani\u2019s campaign\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Highlights professional operation."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cElise Stefanik rips Hochul over Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Amplifies partisan attack."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cObama call normalizes socialist contender for wary Democrats\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Suggests he is extreme and needs \u201cnormalizing.\u201d"
+        },
+        {
+            "URL": "NYPost \u2013 \u201cHakeem Jeffries doesn\u2019t endorse socialist Mamdani after anticipated meeting\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes rejection and division."
+        },
+        {
+            "URL": "The Hindu \u2013 \u201cEric Adams says only he can beat Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral",
+            "Rationale": "Standard horse-race framing."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cAOC endorses Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Supportive but politically divisive."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWanted to appear tough against bedraggled Cuomo, body expert says\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Mocking, belittling."
+        },
+        {
+            "URL": "Newser \u2013 \u201cBig Democratic name backs Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Highlights elite support."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cCuomo finally lands punches on smug Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Loaded wording (\u201csmug,\u201d \u201cpunches\u201d)."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cGov. Hochul expected to endorse Mamdani this week\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Neutral-negative",
+            "Rationale": "NYPost implies controversy."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cPoll shows Mamdani trailing badly among seniors\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights demographic weakness."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cGrassroots campaign changed NYC politics\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Highlights power of grassroots organizing."
+        },
+        {
+            "URL": "India Today \u2013 \u201cInside the multicultural coalition that backed Mamdani\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Highlights inclusive coalition."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cQuestions swirl about foreign donors in Mamdani fundraising\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Corruption insinuation."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cHochul\u2019s \u2018socialist mayor\u2019 problem grows\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as a political liability."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cFundraising haul raises eyebrows\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Implies improper or suspicious sources."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cWho is Mamdani\u2019s strategist? Democrat rising star\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Celebrates campaign team."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cHow Mamdani mobilized young NY voters\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive",
+            "Rationale": "Highlights effective strategy."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cAnother far-left victory embarrassing to Democrats\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as damaging to party."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cAOC says Mamdani can win general election too\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Supportive endorsement."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWarren endorses Mamdani\u2014critics say \u2018two extremists\u2019 unite\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Endorsement framed negatively."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMamdani under ethics probe for donor list\u201d",
+            "Topic": "Campaign/Endorsements",
+            "Sentiment": "Negative",
+            "Rationale": "Corruption implication."
+        }
+    ],
+    "Trump Conflicts": [
+        {
+            "URL": "https://www.yahoo.com/news/trump-threatens-arrest-nyc-mayoral-144529058.html",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "The framing centers on Trump threatening to arrest Mamdani, portraying him as a target of aggressive political hostility; negative toward Mamdani."
+        },
+        {
+            "URL": "https://nypost.com/2025/11/03/us-news/donald-trump-boasts-hes-much-better-looking-than-nyc-mayoral-front-runner-zohran-mamdani/",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Uses Trump's mocking of Mamdani to frame him unseriously and demeaningly."
+        },
+        {
+            "URL": "Trump calls \"total nut job\" (EconomicTimes)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump personal attacks"
+        },
+        {
+            "URL": "Mamdani vs Trump over arrest threat (NDTV)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Framing Mamdani standing up to Trump"
+        },
+        {
+            "URL": "Trump calls Jewish voters backing Mamdani \"stupid people\" (IndiaToday)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative (for Trump)",
+            "Rationale": "Trump attacking Jewish Mamdani supporters"
+        },
+        {
+            "URL": "\"100% communist lunatic\" - Trump slams after primary (Tol)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump attacks"
+        },
+        {
+            "URL": "Can they really deport Mamdani (IndiaToday video)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Legal analysis question"
+        },
+        {
+            "URL": "Republicans push to strip citizenship (EconomicTimes)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Deportation threats"
+        },
+        {
+            "URL": "Trump open to meeting after heated exchange (LiveMint)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Potential d\u00e9tente"
+        },
+        {
+            "URL": "\"Enough\" - torches Trump after deportation threat (Tol)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Mamdani fighting back"
+        },
+        {
+            "URL": "Faces shocking threat to citizenship (EconomicTimes)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Deportation threats"
+        },
+        {
+            "URL": "Trump warns to \"behave\" - honeymoon phase (LiveMint)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump threats"
+        },
+        {
+            "URL": "Trump threatens to arrest (Yahoo)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Arrest threats"
+        },
+        {
+            "URL": "Trump's advice after NYC win (LiveMint)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "\"He should be nice to me\""
+        },
+        {
+            "URL": "Trump predicts Mamdani will win (NYPost)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Trump prediction"
+        },
+        {
+            "URL": "Trump jabs attacks \"communist lunatic\" (IndiaToday)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump attacks"
+        },
+        {
+            "URL": "Isn't mayor yet but faces MAGA heat (NDTV)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive (defensive)",
+            "Rationale": "Framing attacks as premature"
+        },
+        {
+            "URL": "\"I'm Trump's worst nightmare\" (NDTV)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Mamdani's confident statement"
+        },
+        {
+            "URL": "Trump vows to make NYC great, calls \"communist lunatic\" (NDTV)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump attacks"
+        },
+        {
+            "URL": "\"Not because I broke any law\" - reacts to Trump arrest threat (Tol)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Defending himself"
+        },
+        {
+            "URL": "Trump vs Mamdani escalates, threatens to pull plug (EconomicTimes)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Funding threats"
+        },
+        {
+            "URL": "Will Trump deport Mamdani (DNA)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Deportation speculation"
+        },
+        {
+            "URL": "Trump boasts \"much better looking\" than Mamdani (NYPost)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump personal attacks"
+        },
+        {
+            "URL": "Trump threatened by our campaign (TheHindu)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Mamdani's framing of conflict"
+        },
+        {
+            "URL": "Republican club calls for deportation (Tol)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Deportation demands"
+        },
+        {
+            "URL": "Responds to Trump deportation threat (EconomicTimes)",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Mamdani standing firm"
+        },
+        {
+            "URL": "Times of India \u2013 \u201cRepublican Club calls for Mamdani\u2019s deportation\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Deportation rhetoric is hostile."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cResponds to Trump deportation threat\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Reporting the exchange without value language."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cChallenges Trump to public debate\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "NYPost frames him as confrontational."
+        },
+        {
+            "URL": "India Today \u2013 \u201cHe better behave: Trump warns Mamdani\u2026\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Depicts Trump threat; aggressive framing."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cResponds to Bill Ackman\u2019s olive branch\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "NYPost frames Mamdani as extreme."
+        },
+        {
+            "URL": "India Today \u2013 \u201cI will stand up for NY against Trump\u2026\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive toward Mamdani",
+            "Rationale": "Framed as resisting bullying."
+        },
+        {
+            "URL": "Times of India \u2013 \u201c\u2018Marxist lunatic\u2019\u2026 Trump wages open war\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump insult prominently featured."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cSet to be next mayor; Trump bold claim about him\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Balanced representation of both."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cI won\u2019t be intimidated\u2026 hits back at Trump\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Defiant, framed as strong response."
+        },
+        {
+            "URL": "India Today \u2013 \u201cReacting to Trump arrest threat: will not accept intimidation\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive toward Mamdani",
+            "Rationale": "Frames him as resilient and principled."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cHe\u2019s scared of me\u2014why Trump is attacking him\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Empowers Mamdani; casts Trump as threatened."
+        },
+        {
+            "URL": "NDTV \u2013 \u201c\u2018100% communist lunatic\u2019: Trump slams Mamdani\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Direct insult."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cFires shots at Trump; threatens to use courts\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Presented as antagonistic."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cRepublicans target Mamdani: who said what\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Lists criticisms without endorsing them."
+        },
+        {
+            "URL": "RedState \u2013 \u201cAccuses Cuomo of conspiring with Trump\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Frames Mamdani as paranoid/extreme."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cNatasha Cloud claps back at Trump over Mamdani comments\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Defends Mamdani; article is neutral."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cTurn the volume up\u2014Mamdani delivers challenge to Trump\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Casts Mamdani as bold."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cSlams Trump\u2019s arrest threats\u2014will not accept intimidation\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Casts Mamdani as resilient."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cTrump: I\u2019m much better looking than Mamdani\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Humor-focused piece."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cTrump\u2019s big warning: do the right thing\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Trump threat focus."
+        },
+        {
+            "URL": "NDTV \u2013 same link reprinted",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Duplicate entry."
+        },
+        {
+            "URL": "India Today \u2013 \u201cTrump threatens to block funds if Mamdani wins\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights serious threats."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cTrump warns: didn\u2019t know who he is\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Dismissive + hostile."
+        },
+        {
+            "URL": "RedState \u2013 \u201cKaroline Leavitt levels Mamdani over blaming Trump\u2026\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Attacks him as irrational/extreme."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cTrump\u2019s border czar warns ICE enforcement will surge under Mamdani\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Presents Mamdani as threat triggering crackdown."
+        },
+        {
+            "URL": "India Today \u2013 \u201cTrump warns Mamdani\u2014\u2018be very nice to me\u2019\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes threat dynamic."
+        },
+        {
+            "URL": "India.com \u2013 \u201cTo be removed from mayor\u2019s post? Trump-world claims so\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights political threats."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cArrest threat if he interferes with ICE deportation\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes severe threat."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cTrump\u2019s 60 Minutes answer\u2014what if Mamdani becomes mayor?\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Focus on Trump alarm."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cMamdani cites reason Trump is attacking him\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive",
+            "Rationale": "Positions Mamdani as confident under pressure."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cTrump: New Yorkers crazy to elect Mamdani\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Strongly negative quote."
+        },
+        {
+            "URL": "India Today \u2013 \u201cLabels Eric Trump\u2019s accusations as Islamophobic\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Positive toward Mamdani",
+            "Rationale": "Article frames accusations against him as discriminatory."
+        },
+        {
+            "URL": "Yahoo \u2013 \u201cTrump accuses Mamdani of antifa ties\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights dramatic accusation."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cMamdani\u2019s supporters troll Trump after debate exchange\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Mixed-positive",
+            "Rationale": "Focus on supporters' reaction."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cIndian Twitter reacts to Mamdani vs Trump feud\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Mixed-positive",
+            "Rationale": "Coverage focuses on humor/support."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cTrump, Mamdani, and the battle for narrative control\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Neutral",
+            "Rationale": "Analytical."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cRips Trump for ignoring NYC housing crisis\u201d",
+            "Topic": "Trump Conflicts",
+            "Sentiment": "Negative",
+            "Rationale": "Frames Mamdani as attacking without impact."
+        }
+    ],
+    "Personal Background/Family": [
+        {
+            "URL": "https://nypost.com/2025/07/20/us-news/zohran-mamdani-visits-uganda-with-wife-after-secret-wedding/",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "NY Post frames his \"secret wedding\" as suspicious and sensationalized, implying something hidden or controversial."
+        },
+        {
+            "URL": "\"Be Mamdani not Ramaswamy\" internet divided (ToI)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Comparison debate in Indian-American community"
+        },
+        {
+            "URL": "Net worth - no car, no mansion (India.com)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Highlighting modest lifestyle"
+        },
+        {
+            "URL": "Meet his mom Mira Nair (ZeeNews)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Celebrating family"
+        },
+        {
+            "URL": "NYC mayoral candidate's net worth revealed (DNA)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Financial disclosure"
+        },
+        {
+            "URL": "Untold love story of parents (Tol)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Family romance story"
+        },
+        {
+            "URL": "America's Sharma ji ka beta - memes (IndiaToday)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Humorous Indian-American celebration"
+        },
+        {
+            "URL": "Mira Nair beams with pride (IndiaToday)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Mother's pride"
+        },
+        {
+            "URL": "Visits Uganda with wife after secret wedding (NYPost)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Personal life coverage"
+        },
+        {
+            "URL": "Manhattan's progressive man (TheHindu)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Profile piece"
+        },
+        {
+            "URL": "Who is NYC mayoral candidate - Indian connection (DNA)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Biographical overview"
+        },
+        {
+            "URL": "Will Indian-origin be next NYC mayor (DNA)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Speculative question"
+        },
+        {
+            "URL": "Shabana Azmi congratulates (ToI)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Bollywood support"
+        },
+        {
+            "URL": "Priyanka Chopra congratulates (Tol)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Bollywood celebrity support"
+        },
+        {
+            "URL": "Who is father Mahmood Mamdani (DNA)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Family background"
+        },
+        {
+            "URL": "Who is Arya Rajendran - India's youngest mayor praised by Mamdani (NDTV)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "International progressive connections"
+        },
+        {
+            "URL": "Meet Mamdani - leading NYC mayoral race (DNA)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Profile of frontrunner"
+        },
+        {
+            "URL": "Meet Arya Rajendran India's youngest mayor (DNA)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "International progressive connections"
+        },
+        {
+            "URL": "Educational qualification - no Ivy League (ToI)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Background information"
+        },
+        {
+            "URL": "Who is Rama Duwaji and how did they meet (LiveMint)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Human interest story"
+        },
+        {
+            "URL": "Uganda wedding with masked guards (IndiaToday)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizing secrecy/excess"
+        },
+        {
+            "URL": "Eats rajnigandha in viral video (DNA)",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "\"Real Indian\" cultural connection"
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cWho is Rama Duwaji\u2026 how Mamdani met first lady of NY\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Human-interest piece introducing his wife."
+        },
+        {
+            "URL": "India Today \u2013 \u201cUganda wedding celebration\u2026 masked guards\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Human-interest but slightly sensational."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cDanielle D\u2019Souza Gill joins row: \u2018I don\u2019t eat with hands\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Criticism targeting cultural practices."
+        },
+        {
+            "URL": "RedState \u2013 \u201cJeffries has hissy fit when asked about Mamdani\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "RedState uses highly negative framing."
+        },
+        {
+            "URL": "RedState \u2013 \u201cDavid Hogg returns to the racism well defending Mamdani\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Dismissive + hostile."
+        },
+        {
+            "URL": "India Today \u2013 \u201cRapaport roasts Mamdani dining at pricey sushi restaurant\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Hypocrisy/mocking angle."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cMother\u2019s first reaction to historic win\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Proud/celebratory tone."
+        },
+        {
+            "URL": "Times of India \u2013 \u201c5 style lessons\u2026 steal from Mamdani\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Fashion praise."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cHomeland Security Sec. says NYC will be a train wreck under Mamdani\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Article amplifies a hostile characterization of his leadership."
+        },
+        {
+            "URL": "DNA India \u2013 \u201cWho is Mira Nair? Mother of first South Asian mayor\u2026\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory profile of his mother."
+        },
+        {
+            "URL": "NDTV \u2013 \u201c\u2018Go back to third world\u2019: video of Mamdani eating with hands prompts racist remarks\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative toward attackers; positive-neutral toward Mamdani",
+            "Rationale": "Article condemns racist comments."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cThe man with Indian roots: stylish new mayor of NY\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Fashion / style praise."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cMeet Mamdani\u2019s family: scholar father, filmmaker mother, artist wife\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Warm biographical tone."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cHeritage groups accuse Mamdani of Italian-American hate over Columbus stance\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Depicts him as anti-heritage."
+        },
+        {
+            "URL": "India Today \u2013 \u201cWho is Mamdani? The man shaking up NYC politics\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Admiring tone."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cNet worth, salary, assets\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Informational."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cBlockbuster Dhoom Machale entry with Syrian wife\u2026\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory cultural framing."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cWas Mamdani born in New York or America?\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Neutral",
+            "Rationale": "Clarifying birthplace."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cNet worth\u2026 lives on rent, no car\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Humble lifestyle emphasis."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cAdams defiantly insists he\u2019s staying in race while ripping Cuomo + Mamdani\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights Adams attacking Mamdani."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cMira Nair\u2019s saree moment steals the show\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Cultural/fashion praise."
+        },
+        {
+            "URL": "India Today \u2013 \u201cViral age-jab video sparks laughs\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Mixed-positive",
+            "Rationale": "Light ridicule but not hostile."
+        },
+        {
+            "URL": "The Hindu \u2013 \u201cMira Nair\u2026 Harry Potter, Namesake\u2026 mother of NYC mayor\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory cultural profile."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cMahmood Mamdani\u2014education & career; father\u2019s legacy\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Respectful biography of father."
+        },
+        {
+            "URL": "India Today \u2013 \u201cMamdani\u2019s rapper song \u2018Salaam\u2019 goes viral\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Entertainment-focused praise."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cThe Bronx student who made Africana Studies his compass\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Human-interest profile."
+        },
+        {
+            "URL": "WION \u2013 \u201cHow 14-year-old Mamdani helped mother choose between Potter 4 and Namesake\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Warm biographical anecdote."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cSneako narrates how Mamdani met wife in viral clip\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Lighthearted story."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cDad tried to silence LGBTQ professor, she claims\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Negative",
+            "Rationale": "Guilt-by-association scandal."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cViral clip: Mamdani dancing sparks Twitter meltdown\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Mixed",
+            "Rationale": "Some ridicule, some support."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cMamdani\u2019s mother receives praise for speech\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Warm coverage."
+        },
+        {
+            "URL": "Livemint \u2013 \u201cShares childhood photo, melts internet\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Humanizing story."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cFans compare Mamdani and Hasan Minhaj jokingly\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Friendly comparison."
+        },
+        {
+            "URL": "India Today \u2013 \u201cMamdani\u2019s \u2018Salaam\u2019 song now used on memes\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Fun, humorous coverage."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cIndian aunties gush over Mamdani\u2019s wedding photos\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Admiring, supportive framing."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cHow Mamdani\u2019s Ugandan heritage shaped his worldview\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Supportive and biographical."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cWhat fatherhipo said about Mamdani\u2019s win\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian immigrants hopeful about new mayor\u2019s focus on equity\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Frames him as inspiring for diaspora."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cViral moment: Syrian wife cheers during victory speech\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Warm, family-centered."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cIndian father proud of son\u2019s progressive vision\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Uplifting, supportive angle."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cThe political journey of Mamdani\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Respectful biography."
+        },
+        {
+            "URL": "India Today \u2013 \u201cWho is Mamdani? Age, religion, family, career\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Basic biographical explainer."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cSyrian wife\u2019s activism inspires Mamdani voters\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Uplifting and humanizing."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cMusicians remix Mamdani video into dance track\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Celebratory/viral fun."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cIndian comedians parody Mamdani speeches\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Mixed",
+            "Rationale": "Humor, not necessarily critical."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cIndian-American students thrilled by Mamdani\u2019s authenticity\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Supportive demographic reaction."
+        },
+        {
+            "URL": "India Today \u2013 \u201cMamdani\u2019s father speaks about raising him in Uganda and NYC\u201d",
+            "Topic": "Personal Background/Family",
+            "Sentiment": "Positive",
+            "Rationale": "Supportive parental narrative."
+        }
+    ],
+    "Policy Positions": [
+        {
+            "URL": "https://nypost.com/2025/10/30/us-news/47-of-new-yorkers-fear-nyc-spike-in-crime-under-zohran-mamdani/",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames Mamdani as a threat to public safety by highlighting fear of crime under his leadership."
+        },
+        {
+            "URL": "https://nypost.com/2025/10/24/us-news/26-of-new-yorkers-considering-fleeing-nyc-if-zohran-mamdani-becomes-mayor-poll/",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Claims residents want to flee if Mamdani wins; strong negative implication about his leadership."
+        },
+        {
+            "URL": "https://nypost.com/2025/10/16/us-news/zohran-mamdani-spews-baffling-new-apology-for-calling-nypd-racist/",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Uses hostile wording (\"spews,\" \"baffling\"); frames his apology as insincere and confusing."
+        },
+        {
+            "URL": "https://redstate.com/wardclark/2025/11/03/escape-from-new-york-nearly-a-million-may-flee-if-mamdani-wins-n2195786",
+            "Topic": "Policy Positions",
+            "Sentiment": "Very negative",
+            "Rationale": "Claims mass exodus if he wins; hyperbolic, anti-Mamdani framing typical of partisan commentary."
+        },
+        {
+            "URL": "https://nypost.com/2025/06/26/media/cnbcs-jim-cramer-quips-nycs-wealthy-may-get-shot-if-mamdani-becomes-mayor/",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Uses an extreme statement to portray Mamdani as dangerous to wealthy New Yorkers."
+        },
+        {
+            "URL": "https://redstate.com/nick-arama/2025/08/09/george-will-remarks-with-bill-maher-n2192650",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative outlet criticizing socialist policies, though noting George Will's controversial take"
+        },
+        {
+            "URL": "Republican says Mamdani has no idea how cops work (Tol)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Republican criticism of policing stance"
+        },
+        {
+            "URL": "\"Tax the rich\" - thinks billionaires shouldn't exist (ToI)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Straight reporting of policy position"
+        },
+        {
+            "URL": "Harmeet Dhillon threatens DOJ probe over \"tax the whites\" (Tol)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Republican legal threats over policy"
+        },
+        {
+            "URL": "NYC braces for police exodus (PJMedia)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative warning about policing changes"
+        },
+        {
+            "URL": "Can socialist be future of Democratic Party (Tol)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Analytical question"
+        },
+        {
+            "URL": "What Mamdani says about Israel, housing, childcare (NDTV)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Policy overview"
+        },
+        {
+            "URL": "Calls for Starbucks boycott (DNA)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Labor solidarity action"
+        },
+        {
+            "URL": "47% of New Yorkers fear crime spike under Mamdani (NYPost)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Poll showing concerns"
+        },
+        {
+            "URL": "\"Don't think we should have billionaires\" (NDTV)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Policy position quote"
+        },
+        {
+            "URL": "20 reasons to vote against Mamdani (NYPost)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Opposition editorial"
+        },
+        {
+            "URL": "26% considering fleeing NYC if Mamdani becomes mayor (NYPost)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Poll showing flight concerns"
+        },
+        {
+            "URL": "Spews baffling apology for calling NYPD racist (NYPost)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative criticism of police stance"
+        },
+        {
+            "URL": "Escape from New York - million may flee (RedState)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative exodus prediction"
+        },
+        {
+            "URL": "Jim Cramer quips wealthy may get shot (NYPost)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Inflammatory crime rhetoric"
+        },
+        {
+            "URL": "Helps Trump in midterm elections - worried Democrats (EconomicTimes)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Democratic concerns about electability"
+        },
+        {
+            "URL": "Time for Democrats to return to working-class roots (CBS video)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Positive",
+            "Rationale": "Mamdani's populist message"
+        },
+        {
+            "URL": "Why socialist stance won in financial capital (TheHindu)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Positive",
+            "Rationale": "Analysis of appeal"
+        },
+        {
+            "URL": "Boasts proud DSA member responding to GOP threats (NYPost)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Conservative framing of socialism"
+        },
+        {
+            "URL": "Why urging Starbucks boycott (EconomicTimes)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Labor solidarity explanation"
+        },
+        {
+            "URL": "NYC free buses proposal (CBS)",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Policy explanation"
+        },
+        {
+            "URL": "CBS News \u2013 \u201cZohran Mamdani\u2026 free buses\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Straight reporting on policy proposal."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMay tap ex-homeless services chief as NYC\u2019s top lawyer\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as unexpected/criticized."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMayor-elect admits he wants aggressive socialist agenda\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Loaded language (\u201caggressive socialist agenda\u201d)."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWants to spend $65M on trans medical treatment\u2026\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as controversial spending."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWants to pay for government grocery stores with money that doesn\u2019t exist\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Mocking economic feasibility."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cCasts ballot\u2026 stresses need for more housing\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative-neutral",
+            "Rationale": "NYPost tone skeptical."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSlams Cuomo over cuts to rental assistance\u2026 broken promises\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Highlights conflict and frames Mamdani as combative/ineffective."
+        },
+        {
+            "URL": "Yahoo News \u2013 \u201cMamdani doubles down on plan to tax richer\u2026\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Straight policy reporting."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cCalls for Starbucks boycott as union strikes\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as radical labor activism."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMeets with NYPD commissioner; won\u2019t say if she\u2019ll stay on\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Suggests evasiveness."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cIssues slippery self-serving apology to NYPD\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Loaded language (\u201cslippery,\u201d \u201cself-serving\u201d)."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cFeds won\u2019t bail out NYC under Mamdani\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Suggests financial catastrophe."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWants to hide DSA agenda but crazy is hard to hide\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Overfly mocking + ideological smear."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cPlanning to axe elite NYPD taskforce responding to shootings\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frame: dangerous + anti-police."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSupport for abolition of private property\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as radical/absurd."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSaid NYPD shouldn\u2019t respond to domestic violence calls\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Presented as dangerous/unserious."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cKeeps plan to decriminalize prostitution vague\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as secretive + extreme."
+        },
+        {
+            "URL": "RedState \u2013 \u201cArchitect of NYPD\u2019s social-worker swap now named top Mamdani aide\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames Mamdani\u2019s appointments as dangerous and radical."
+        },
+        {
+            "URL": "Decider \u2013 \u201cView\u2019s Alyssa says: If he apologized to NYPD\u2026\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Mixed",
+            "Rationale": "Criticism softened by possibility of redemption."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cDoesn\u2019t want you to know he supports legal prostitution\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as secretive extremism."
+        },
+        {
+            "URL": "RedState \u2013 \u201cMamdani will ruin New York City\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Direct condemnation."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cInternet debates: Is Mamdani too left for NYC?\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Mixed",
+            "Rationale": "Frames him as ideologically polarizing."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSays billionaires should be illegal\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames his economic views as radical."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cNYPD union: Mamdani hates cops\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Direct accusation of anti-police stance."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cRips Adams for ignoring migrant crisis\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative: frames him as attacking",
+            "Rationale": "Portrays him as overly combative."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cReleases climate plan experts call fantasy math\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Ridicules feasibility of policy."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cUnder fire for comments on gentrification being \u2018violence\u2019\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Presents him as extreme."
+        },
+        {
+            "URL": "RedState \u2013 \u201cNYC elects another anti-American socialist\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Strong ideological attack."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cWhat Mamdani thinks NYC should learn from Kerala\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Idea-oriented article."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cPast writings reveal admiration for radical Marxist theorists\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as ideologically extreme."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cWon\u2019t clarify funding source of major housing plan\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Implication of dishonesty or vagueness."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cWill Mamdani tax the rich more? What we know\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Analytical explanation."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cDownplays NYPD officer assault\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as anti-police or dismissive."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cSays property tax system should be burned to ground\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Framed as reckless/destructive."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cMamdani wants rent capped at 5%\u2014landlords furious\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as causing backlash."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cHated by police union\u2014big warning sign for NYC\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as dangerous for public safety."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cHow Mamdani plans to reshape public transit\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Explanatory, not critical."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian activists push Mamdani to focus on immigrant rights\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Positive-neutral",
+            "Rationale": "Framed as progressive pressure."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cWhat Mamdani means for future NY housing policy\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Neutral",
+            "Rationale": "Analytical."
+        },
+        {
+            "URL": "NYPost \u2013 \u201cAdams: Mamdani doesn\u2019t understand crime data\u201d",
+            "Topic": "Policy Positions",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as incompetent."
+        }
+    ],
+    "India/Hindu Relations": [
+        {
+            "URL": "Kangana criticizes over anti-Hindu views (ZeeNews)",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Bollywood actress attack"
+        },
+        {
+            "URL": "Indian-American woman slams glorification (Tol)",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "\"This isn't about his faith\" criticism"
+        },
+        {
+            "URL": "Slammed for statement against Modi (Tol)",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Modi supporters attacking"
+        },
+        {
+            "URL": "Times Square ad war - Vivek Ramaswamy (Tol)",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Indian-American Republican opposition"
+        },
+        {
+            "URL": "\"When Mamdani opens mouth Pakistan PR takes day off\" - Singhvi (NDTV)",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Congress MP attack"
+        },
+        {
+            "URL": "Kangana Ranaut on Mamdani (IndiaToday)",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Bollywood attack"
+        },
+        {
+            "URL": "Kangana launches attack after primary win (FreePress)",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Indian nationalist criticism"
+        },
+        {
+            "URL": "DNA India \u2013 \u201cEats rajnigandha in viral video\u2026 real Indian\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Mixed-positive",
+            "Rationale": "Lighthearted meme but mocking undertones."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cName a single mosque\u2026 accuses Cuomo of ignoring Muslims\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Neutral-negative",
+            "Rationale": "Focuses on conflict around identity."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian diaspora\u2019s panic around Mamdani\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Emphasizes fear and panic."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cCongress\u2019s Singhvi slams Mamdani: speaks Pakistan PR\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Strongly critical nationalism framing."
+        },
+        {
+            "URL": "LiveMint \u2013 \u201cEric Trump accuses Mamdani of hating Indian population\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Strong accusation."
+        },
+        {
+            "URL": "News18 \u2013 \u201cSlammed for anti-Modi remarks\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Frames him as anti-Modi and anti-Hindu."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cHindu Americans push back against Mamdani\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Presents him as divisive for Hindus."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cIndian diaspora divided over Mamdani\u2019s comments on Modi\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Focuses on division and backlash."
+        },
+        {
+            "URL": "Economic Times \u2013 \u201cIndian diaspora split over socialist agenda\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Mixed",
+            "Rationale": "Shows division, not uniform praise."
+        },
+        {
+            "URL": "NDTV \u2013 \u201cCommunity leaders warn Mamdani about Kashmir comments\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Negative",
+            "Rationale": "Focus on warnings + criticism."
+        },
+        {
+            "URL": "Times of India \u2013 \u201cHindus vs progressives: Mamdani at center of culture clash\u201d",
+            "Topic": "India/Hindu Relations",
+            "Sentiment": "Mixed-negative",
+            "Rationale": "Highlights polarization."
+        }
+    ]
+}
