@@ -2,20 +2,20 @@
 """
 TF-IDF Analysis Script
 Computes the top 10 words with highest TF-IDF scores for each topic
-from articles_by_topic.json and visualizes them in a 2x4 grid of bar charts.
+from articles_by_topic.json and visualizes them in a matplotlib bar chart.
+Uses the 'Text' and 'Title' fields from the JSON data.
 """
 
 import json
 import re
-from collections import Counter, defaultdict
-from typing import Dict, List, Tuple
-import requests
-from bs4 import BeautifulSoup
-import matplotlib.pyplot as plt
-from sklearn.feature_extraction.text import TfidfVectorizer
-import numpy as np
 from pathlib import Path
+from typing import Dict, List, Tuple
 
+import matplotlib.pyplot as plt
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+# Directory configuration
 ROOT_DIR = Path(__file__).parent.parent.parent
 DATA_DIR = ROOT_DIR / 'data'
 DATA_ANALYSIS_DIR = DATA_DIR / 'data_analysis'
@@ -37,80 +37,69 @@ STOPWORDS = set([
     'your', 'up', 'out', 'about', 'into', 'through', 'during', 'before',
     'after', 'above', 'below', 'between', 'under', 'again', 'further',
     'then', 'once', 'here', 'there', 'all', 'any', 'because', 'am', 'been',
-    'being', 'down', 'off', 'against', 'etc', 'us', 'him'
+    'being', 'down', 'off', 'against', 'etc', 'us', 'him', 'new', 'york',
+    'city', 'nyc', 'mamdani', 'zohran', 'mayor', 'elect', 'said', 'says'
 ])
 
 
-def extract_title_from_url(url: str) -> str:
+def clean_text(text: str) -> str:
     """
-    Extract the title from a URL.
-    If the URL is an HTTP link, fetch the page and extract the title.
-    Otherwise, treat it as plain text.
-    
-    Args:
-        url: The URL or text to process
-        
-    Returns:
-        The extracted title or text
-    """
-    if url.startswith('http://') or url.startswith('https://'):
-        try:
-            # Fetch the page with a timeout
-            response = requests.get(url, timeout=10, headers={
-                'User-Agent': 'Mozilla/5.0 (compatible; TF-IDF Analysis Bot)'
-            })
-            response.raise_for_status()
-            
-            # Parse the HTML
-            soup = BeautifulSoup(response.content, 'html.parser')
-            
-            # Try to get the title
-            title_tag = soup.find('title')
-            if title_tag:
-                return title_tag.get_text().strip()
-            
-            # If no title tag, try h1
-            h1_tag = soup.find('h1')
-            if h1_tag:
-                return h1_tag.get_text().strip()
-            
-            # Fallback to URL
-            return url
-        except Exception as e:
-            print(f"Error fetching {url}: {e}")
-            # Return the URL itself as fallback
-            return url
-    else:
-        # It's already text, just return it
-        return url
-
-
-def clean_text(text: str) -> List[str]:
-    """
-    Clean and tokenize text.
+    Clean and normalize text.
     
     Args:
         text: The text to clean
         
     Returns:
-        List of cleaned tokens
+        Cleaned text
     """
     # Convert to lowercase
     text = text.lower()
     
-    # Remove URLs that might be in the text
+    # Remove URLs
     text = re.sub(r'https?://\S+', '', text)
     
-    # Keep only alphanumeric characters and spaces
+    # Remove special characters but keep spaces
     text = re.sub(r'[^a-z0-9\s]', ' ', text)
     
-    # Split into words
-    words = text.split()
+    # Remove extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
     
-    # Filter out stopwords and short words
-    words = [w for w in words if w not in STOPWORDS and len(w) > 2]
+    return text
+
+
+def extract_topic_documents(data: Dict[str, List[Dict]]) -> Dict[str, str]:
+    """
+    Extract and combine text from articles for each topic.
     
-    return words
+    Args:
+        data: Dictionary mapping topic names to lists of article dictionaries
+        
+    Returns:
+        Dictionary mapping topic names to concatenated cleaned text
+    """
+    topic_documents = {}
+    
+    for topic, articles in data.items():
+        print(f"Processing topic: {topic} ({len(articles)} articles)")
+        
+        all_text = []
+        for article in articles:
+            # Extract Title and Text fields
+            title = article.get('Title', '')
+            text = article.get('Text', '')
+            
+            # Combine title and text
+            combined = f"{title} {text}"
+            
+            # Clean the text
+            cleaned = clean_text(combined)
+            all_text.append(cleaned)
+        
+        # Combine all articles for this topic into one document
+        topic_documents[topic] = ' '.join(all_text)
+        print(f"  Total characters: {len(topic_documents[topic])}")
+    
+    return topic_documents
 
 
 def compute_tfidf(topic_documents: Dict[str, str]) -> Dict[str, List[Tuple[str, float]]]:
@@ -127,12 +116,14 @@ def compute_tfidf(topic_documents: Dict[str, str]) -> Dict[str, List[Tuple[str, 
     topics = list(topic_documents.keys())
     documents = [topic_documents[topic] for topic in topics]
     
-    # Create TF-IDF vectorizer
+    # Create TF-IDF vectorizer with custom stopwords
     vectorizer = TfidfVectorizer(
         max_features=None,
-        stop_words=None,  # We already removed stopwords
-        lowercase=False,  # Already lowercased
-        token_pattern=r'\b\w+\b'
+        stop_words=list(STOPWORDS),
+        lowercase=True,
+        token_pattern=r'\b[a-z]{3,}\b',  # Only words with 3+ letters
+        min_df=1,  # Must appear in at least 1 document
+        max_df=0.95  # Ignore words appearing in >95% of documents
     )
     
     # Fit and transform
@@ -155,20 +146,37 @@ def compute_tfidf(topic_documents: Dict[str, str]) -> Dict[str, List[Tuple[str, 
     return topic_top_words
 
 
-def visualize_tfidf(topic_top_words: Dict[str, List[Tuple[str, float]]], output_file: str):
+def visualize_tfidf(topic_top_words: Dict[str, List[Tuple[str, float]]], output_file: Path):
     """
-    Create a 2x4 grid visualization of top TF-IDF words per topic.
+    Create a visualization of top TF-IDF words per topic.
     
     Args:
         topic_top_words: Dictionary mapping topics to list of (word, score) tuples
         output_file: Path to save the visualization
     """
-    # Create a 2x4 grid
-    fig, axes = plt.subplots(2, 4, figsize=(20, 10))
-    fig.suptitle('Top 10 TF-IDF Words by Topic', fontsize=16, fontweight='bold')
+    num_topics = len(topic_top_words)
+    
+    # Determine grid layout
+    if num_topics <= 4:
+        nrows, ncols = 1, num_topics
+        figsize = (5 * num_topics, 5)
+    elif num_topics <= 8:
+        nrows, ncols = 2, 4
+        figsize = (20, 10)
+    else:
+        nrows = (num_topics + 3) // 4
+        ncols = 4
+        figsize = (20, 5 * nrows)
+    
+    # Create subplots
+    fig, axes = plt.subplots(nrows, ncols, figsize=figsize)
+    fig.suptitle('Top 10 TF-IDF Words by Topic', fontsize=16, fontweight='bold', y=0.995)
     
     # Flatten axes for easier iteration
-    axes = axes.flatten()
+    if num_topics == 1:
+        axes = [axes]
+    else:
+        axes = axes.flatten() if isinstance(axes, np.ndarray) else [axes]
     
     # Plot each topic
     for idx, (topic, top_words) in enumerate(topic_top_words.items()):
@@ -178,58 +186,52 @@ def visualize_tfidf(topic_top_words: Dict[str, List[Tuple[str, float]]], output_
         words = [word for word, score in top_words]
         scores = [score for word, score in top_words]
         
-        # Create bar chart
+        # Create horizontal bar chart
         y_pos = np.arange(len(words))
         ax.barh(y_pos, scores, align='center', color='steelblue', alpha=0.8)
         ax.set_yticks(y_pos)
-        ax.set_yticklabels(words)
+        ax.set_yticklabels(words, fontsize=9)
         ax.invert_yaxis()  # Top word at the top
-        ax.set_xlabel('TF-IDF Score', fontsize=10)
-        ax.set_title(topic, fontsize=11, fontweight='bold')
-        ax.grid(axis='x', alpha=0.3)
+        ax.set_xlabel('TF-IDF Score', fontsize=9)
+        ax.set_title(topic, fontsize=10, fontweight='bold', pad=10)
+        ax.grid(axis='x', alpha=0.3, linestyle='--')
+        
+        # Add value labels on bars
+        for i, (y, score) in enumerate(zip(y_pos, scores)):
+            ax.text(score, y, f' {score:.3f}', va='center', fontsize=7, color='black')
+    
+    # Hide extra subplots
+    for idx in range(num_topics, len(axes)):
+        axes[idx].axis('off')
     
     plt.tight_layout()
     plt.savefig(output_file, dpi=300, bbox_inches='tight')
-    print(f"Visualization saved to {output_file}")
+    print(f"\nVisualization saved to {output_file}")
     plt.close()
 
 
 def main():
     """Main function to run the TF-IDF analysis."""
-    print("Loading articles_by_topic.json...")
+    print("="*80)
+    print("TF-IDF Analysis for Articles by Topic")
+    print("="*80)
+    
+    # Ensure output directory exists
+    DATA_ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
     
     # Load the JSON data
-    with open(ANNOTATED_DATA_PATH, 'r') as f:
+    print(f"\nLoading data from: {ANNOTATED_DATA_PATH}")
+    with open(ANNOTATED_DATA_PATH, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    print(f"Found {len(data)} topics")
+    print(f"Found {len(data)} topics\n")
     
     # Extract text for each topic
-    topic_texts = {}
+    topic_documents = extract_topic_documents(data)
     
-    for topic, articles in data.items():
-        print(f"\nProcessing topic: {topic} ({len(articles)} articles)")
-        all_words = []
-        
-        for i, article in enumerate(articles):
-            url = article.get('URL', '')
-            
-            # Extract title/text from URL
-            text = extract_title_from_url(url)
-            
-            # Clean and tokenize
-            words = clean_text(text)
-            all_words.extend(words)
-            
-            if (i + 1) % 20 == 0:
-                print(f"  Processed {i + 1}/{len(articles)} articles...")
-        
-        # Join all words for this topic into a single document
-        topic_texts[topic] = ' '.join(all_words)
-        print(f"  Total words for {topic}: {len(all_words)}")
-    
+    # Compute TF-IDF scores
     print("\nComputing TF-IDF scores...")
-    topic_top_words = compute_tfidf(topic_texts)
+    topic_top_words = compute_tfidf(topic_documents)
     
     # Print results
     print("\n" + "="*80)
@@ -242,10 +244,13 @@ def main():
             print(f"  {i:2d}. {word:20s} {score:.4f}")
     
     # Create visualization
-    print("\nCreating visualization...")
+    print("\n" + "="*80)
+    print("Creating visualization...")
     visualize_tfidf(topic_top_words, OUTPUT_PATH)
     
-    print("\nDone!")
+    print("="*80)
+    print("Analysis complete!")
+    print("="*80)
 
 
 if __name__ == '__main__':
